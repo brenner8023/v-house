@@ -1,3 +1,5 @@
+server/cache
+
 # Logs
 logs
 *.log

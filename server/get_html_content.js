@@ -1,8 +1,16 @@
 import https from 'node:https'
 import fs from 'node:fs'
+import path from 'node:path'
 import * as cheerio from 'cheerio'
 
 import { CITY_LIST, DATE_LIST } from './const.js'
+
+const root = process.cwd()
+const cacheDir = path.join(root, './server/cache')
+
+if (!fs.existsSync(cacheDir)) {
+  fs.mkdirSync(cacheDir)
+}
 
 /**
  * 获取网页HTML内容
@@ -108,11 +116,19 @@ async function main() {
   await Promise.all(
     DATE_LIST.map((item, index) => {
       const [date, url] = item
+      const cacheHtml = path.join(cacheDir, `${date.replace('-', '')}.html`)
+      if (fs.existsSync(cacheHtml)) {
+        const htmlContent = fs.readFileSync(cacheHtml, 'utf-8')
+        result[index] = [date, getData(htmlContent)]
+        return null
+      }
       return getHtmlContent(url).then((htmlContent) => {
+        fs.writeFileSync(cacheHtml, htmlContent)
         result[index] = [date, getData(htmlContent)]
       })
     }),
   )
+  console.log('开始数据写入')
   const content = `
   export default ${JSON.stringify(result, null, 2)} as const
   `

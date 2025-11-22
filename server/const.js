@@ -8,6 +8,7 @@ export const CITY_LIST = [
   '武汉',
   '长沙',
   // '南京',
+  '惠州',
   '三亚',
 ]
 
@@ -112,7 +113,7 @@ export const DATE_LIST = [
   ['2025-07', 'https://www.stats.gov.cn/sj/zxfb/202508/t20250815_1960781.html'],
   ['2025-08', 'https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961175.html'],
   ['2025-09', 'https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961597.html'],
-  // ['2025-10', ''],
+  ['2025-10', 'https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961850.html'],
   // ['2025-11', ''],
   // ['2025-12', ''],
 ]

@@ -9,6 +9,7 @@ export const cityList = [
   '武汉',
   '三亚',
   // '南京',
+  '惠州',
 ]
 
 // 开盘价、收盘价、最低价、最高价
@@ -59,7 +60,7 @@ export const getChartOptions = (
       },
       showSymbol: false,
       itemStyle: {
-        color: '#FF6E27',
+        color: 'blue',
       },
     },
     {
@@ -73,7 +74,8 @@ export const getChartOptions = (
       },
       showSymbol: false,
       itemStyle: {
-        color: '#cc76d1',
+        // 改成css的深黄色
+        color: '#ffca27',
       },
     },
     {
