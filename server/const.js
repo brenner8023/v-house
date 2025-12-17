@@ -114,6 +114,6 @@ export const DATE_LIST = [
   ['2025-08', 'https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961175.html'],
   ['2025-09', 'https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961597.html'],
   ['2025-10', 'https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961850.html'],
-  // ['2025-11', ''],
+  ['2025-11', 'https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962069.html'],
   // ['2025-12', ''],
 ]

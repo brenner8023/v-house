@@ -1,9 +1,9 @@
 <template>
-  <div ref="chartHouse" style="width: 100%; height: 500px;"></div>
+  <div ref="chartHouse" style="width: 100%; height: 500px"></div>
 </template>
 
 <script setup lang="ts" name="chart-container">
-import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, watch, type PropType } from 'vue'
 import * as echarts from 'echarts'
 
 import { getChartOptions } from '../const/chart'
@@ -16,7 +16,7 @@ const props = defineProps({
     default: '',
   },
   values: {
-    type: Array,
+    type: Array as PropType<PRICE_LIST>,
     default: () => [],
   },
 })
@@ -33,15 +33,19 @@ const option = computed(() => {
 })
 
 onMounted(() => {
-  myChart = echarts.init(chartHouse.value);
+  myChart = echarts.init(chartHouse.value)
 
-  watch(option, () => {
-    myChart?.setOption(option.value);
-  }, { immediate: true })
+  watch(
+    option,
+    () => {
+      myChart?.setOption(option.value)
+    },
+    { immediate: true },
+  )
 
   // 自适应窗口大小
   window.addEventListener('resize', () => {
-    myChart?.resize();
+    myChart?.resize()
   })
 })
 
