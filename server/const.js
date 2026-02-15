@@ -13,6 +13,18 @@ export const CITY_LIST = [
 ]
 
 export const DATE_LIST = [
+  ['2017-01', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899424.html'],
+  ['2017-02', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899453.html'],
+  ['2017-03', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899479.html'],
+  ['2017-04', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899518.html'],
+  ['2017-05', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899553.html'],
+  ['2017-06', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899586.html'],
+  ['2017-07', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899625.html'],
+  ['2017-08', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899659.html'],
+  ['2017-09', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899703.html'],
+  ['2017-10', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899740.html'],
+  ['2017-11', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899785.html'],
+  ['2017-12', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899812.html'],
   ['2018-01', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899851.html'],
   ['2018-02', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899873.html'],
   ['2018-03', 'https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1899909.html'],
@@ -115,5 +127,7 @@ export const DATE_LIST = [
   ['2025-09', 'https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961597.html'],
   ['2025-10', 'https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961850.html'],
   ['2025-11', 'https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962069.html'],
-  // ['2025-12', ''],
+  ['2025-12', 'https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962319.html'],
+  ['2026-01', 'https://www.stats.gov.cn/sj/zxfb/202602/t20260213_1962617.html'],
+  // ['2026-02', ''],
 ]
