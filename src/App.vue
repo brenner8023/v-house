@@ -17,7 +17,7 @@
 import { computed, ref } from 'vue'
 
 import { cityList } from './const/chart'
-import { getCityNewValues, getCitySecondValues, getMaxVal } from './utils/format_data'
+import { getCityNewValues, getCitySecondValues } from './utils/format_data'
 import { getRsiVal } from './utils/rsi'
 
 import ChartHouse from './components/chart_house.vue'
@@ -31,19 +31,19 @@ const valuesNew = computed(() => getCityNewValues(currentCity.value))
 const valuesSecond = computed(() => getCitySecondValues(currentCity.value))
 const titleNew = computed(() => {
   const arr = valuesNew.value
-  const maxVal = getMaxVal(arr)
   const rsiVal = getRsiVal(arr)
   const currVal = arr[arr.length - 1]![1]
-  const val = (((currVal - maxVal) / maxVal) * 100).toFixed(2)
-  return `${currentCity.value}-新建商品住宅销售价格指数-K线图 (距最高点涨跌幅: ${val}%) RSI: ${rsiVal}`
+  const monthsAgo = arr.length >= 19 ? arr[arr.length - 19]![1] : arr[0]![1]
+  const val = (((currVal - monthsAgo) / monthsAgo) * 100).toFixed(2)
+  return `${currentCity.value}-新建商品住宅销售价格指数-K线图 (最近1.5年涨跌幅: ${val}%) RSI: ${rsiVal}`
 })
 const titleSecond = computed(() => {
   const arr = valuesSecond.value
-  const maxVal = getMaxVal(arr)
   const rsiVal = getRsiVal(arr)
   const currVal = arr[arr.length - 1]![1]
-  const val = (((currVal - maxVal) / maxVal) * 100).toFixed(2)
-  return `${currentCity.value}-二手住宅销售价格指数-K线图 (距最高点涨跌幅: ${val}%) RSI: ${rsiVal}`
+  const monthsAgo = arr.length >= 19 ? arr[arr.length - 19]![1] : arr[0]![1]
+  const val = (((currVal - monthsAgo) / monthsAgo) * 100).toFixed(2)
+  return `${currentCity.value}-二手住宅销售价格指数-K线图 (最近1.5年涨跌幅: ${val}%) RSI: ${rsiVal}`
 })
 
 const getCityBtnCls = (city: string) => {

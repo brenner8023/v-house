@@ -129,5 +129,7 @@ export const DATE_LIST = [
   ['2025-11', 'https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962069.html'],
   ['2025-12', 'https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962319.html'],
   ['2026-01', 'https://www.stats.gov.cn/sj/zxfb/202602/t20260213_1962617.html'],
+  ['2026-02', 'https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962774.html'],
+  ['2026-03', 'https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963320.html'],
   // ['2026-02', ''],
 ]
