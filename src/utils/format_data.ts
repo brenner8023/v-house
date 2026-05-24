@@ -83,3 +83,27 @@ export function calculateMA(dayCount: number, values: PRICE_LIST) {
   }
   return result
 }
+
+function calculateEMA(dayCount: number, values: number[]): number[] {
+  const result: number[] = []
+  const k = 2 / (dayCount + 1)
+  let ema = values[0]!
+  result.push(ema)
+  for (let i = 1; i < values.length; i++) {
+    ema = values[i]! * k + ema * (1 - k)
+    result.push(ema)
+  }
+  return result
+}
+
+export function calculateMACD(values: PRICE_LIST) {
+  const closePrices = values.map((v) => v[1])
+  const ema12 = calculateEMA(12, closePrices)
+  const ema24 = calculateEMA(24, closePrices)
+
+  const dif = ema12.map((v, i) => Number((v - ema24[i]!).toFixed(3)))
+  const dea = calculateEMA(6, dif).map((v) => Number(v.toFixed(3)))
+  const macd = dif.map((v, i) => Number(((v - dea[i]!) * 2).toFixed(3)))
+
+  return { dif, dea, macd }
+}

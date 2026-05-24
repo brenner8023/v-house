@@ -21,6 +21,7 @@ export const getChartOptions = (
   ma5: string[],
   ma10: string[],
   title: string,
+  macdData?: { dif: string[]; dea: string[]; macd: string[] },
 ) => ({
   title: {
     text: title,
@@ -32,22 +33,62 @@ export const getChartOptions = (
       type: 'cross',
     },
   },
-  xAxis: {
-    type: 'category',
-    data: dateList,
-    scale: true,
-    boundaryGap: false,
-    axisLine: { onZero: false },
-    splitLine: { show: false },
-    min: 'dataMin',
-    max: 'dataMax',
+  legend: {
+    data: ['MA5', 'MA10', 'K线', 'DIF', 'DEA', 'MACD'],
+    top: 30,
   },
-  yAxis: {
-    scale: true,
-    splitArea: {
-      show: true,
+  grid: [
+    {
+      left: 60,
+      right: 60,
+      top: 80,
+      height: '50%',
     },
-  },
+    {
+      left: 60,
+      right: 60,
+      top: '65%',
+      height: '20%',
+    },
+  ],
+  xAxis: [
+    {
+      type: 'category',
+      data: dateList,
+      scale: true,
+      boundaryGap: false,
+      axisLine: { onZero: false },
+      splitLine: { show: false },
+      min: 'dataMin',
+      max: 'dataMax',
+      gridIndex: 0,
+    },
+    {
+      type: 'category',
+      data: dateList,
+      scale: true,
+      boundaryGap: false,
+      axisLine: { onZero: false },
+      splitLine: { show: false },
+      min: 'dataMin',
+      max: 'dataMax',
+      gridIndex: 1,
+    },
+  ],
+  yAxis: [
+    {
+      scale: true,
+      splitArea: {
+        show: true,
+      },
+      gridIndex: 0,
+    },
+    {
+      scale: true,
+      gridIndex: 1,
+      splitNumber: 2,
+    },
+  ],
   series: [
     {
       name: 'MA5',
@@ -62,6 +103,8 @@ export const getChartOptions = (
       itemStyle: {
         color: 'blue',
       },
+      xAxisIndex: 0,
+      yAxisIndex: 0,
     },
     {
       name: 'MA10',
@@ -74,9 +117,10 @@ export const getChartOptions = (
       },
       showSymbol: false,
       itemStyle: {
-        // 改成css的深黄色
         color: '#ffca27',
       },
+      xAxisIndex: 0,
+      yAxisIndex: 0,
     },
     {
       name: 'K线',
@@ -88,6 +132,52 @@ export const getChartOptions = (
         borderColor: '#FD1050',
         borderColor0: '#0CF49B',
       },
+      xAxisIndex: 0,
+      yAxisIndex: 0,
+    },
+    {
+      name: 'DIF',
+      type: 'line',
+      data: macdData?.dif ?? [],
+      smooth: true,
+      lineStyle: {
+        opacity: 0.7,
+        width: 1,
+      },
+      showSymbol: false,
+      itemStyle: {
+        color: '#00bcd4',
+      },
+      xAxisIndex: 1,
+      yAxisIndex: 1,
+    },
+    {
+      name: 'DEA',
+      type: 'line',
+      data: macdData?.dea ?? [],
+      smooth: true,
+      lineStyle: {
+        opacity: 0.7,
+        width: 1,
+      },
+      showSymbol: false,
+      itemStyle: {
+        color: '#ff9800',
+      },
+      xAxisIndex: 1,
+      yAxisIndex: 1,
+    },
+    {
+      name: 'MACD',
+      type: 'bar',
+      data: macdData?.macd ?? [],
+      itemStyle: {
+        color: (params: { value: number }) => {
+          return params.value >= 0 ? '#FD1050' : '#0CF49B'
+        },
+      },
+      xAxisIndex: 1,
+      yAxisIndex: 1,
     },
   ],
 })

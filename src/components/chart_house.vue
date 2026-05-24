@@ -1,5 +1,5 @@
 <template>
-  <div ref="chartHouse" style="width: 100%; height: 500px"></div>
+  <div ref="chartHouse" style="width: 100%; height: 800px"></div>
 </template>
 
 <script setup lang="ts" name="chart-container">
@@ -8,7 +8,7 @@ import * as echarts from 'echarts'
 
 import { getChartOptions } from '../const/chart'
 import type { PRICE_LIST } from '../const/chart'
-import { getDateList, calculateMA } from '../utils/format_data'
+import { getDateList, calculateMA, calculateMACD } from '../utils/format_data'
 
 const props = defineProps({
   title: {
@@ -29,7 +29,12 @@ const option = computed(() => {
   const values = props.values as PRICE_LIST
   const ma5 = calculateMA(5, values)
   const ma10 = calculateMA(10, values)
-  return getChartOptions(dateList, values, ma5, ma10, props.title)
+  const macd = calculateMACD(values)
+  return getChartOptions(dateList, values, ma5, ma10, props.title, {
+    dif: macd.dif.map(String),
+    dea: macd.dea.map(String),
+    macd: macd.macd.map(String),
+  })
 })
 
 onMounted(() => {
