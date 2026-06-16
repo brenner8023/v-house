@@ -132,4 +132,5 @@ export const DATE_LIST = [
   ['2026-02', 'https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962774.html'],
   ['2026-03', 'https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963320.html'],
   ['2026-04', 'https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963715.html'],
+  ['2026-05', 'https://www.stats.gov.cn/sj/zxfbhjd/202606/t20260616_1963946.html'],
 ]
