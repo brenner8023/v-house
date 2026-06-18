@@ -134,3 +134,14 @@ export const DATE_LIST = [
   ['2026-04', 'https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963715.html'],
   ['2026-05', 'https://www.stats.gov.cn/sj/zxfbhjd/202606/t20260616_1963946.html'],
 ]
+
+export const SZ_DISTRICT_MAP = {
+  罗湖: 1,
+  福田: 2,
+  南山: 4,
+  宝安: 16,
+  龙岗: 32,
+  坪山: 64,
+  龙华: 128,
+  光明: 512,
+}
