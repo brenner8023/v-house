@@ -87,7 +87,9 @@ async function fetchAllPagesForDistrict(districtName, districtCode, maxPages = 1
         stopped = true
         return
       }
-      const filteredItems = result.data.list.filter((item) => !idSet.has(item.id))
+      const filteredItems = result.data.list.filter(
+        (item) => !idSet.has(item.id) && item.houseUsageSplice === '住宅',
+      )
       idSet.add(...filteredItems.map((item) => item.id))
       allData.push(
         ...filteredItems.map((item) => ({

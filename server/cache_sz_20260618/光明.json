@@ -54,33 +54,6 @@
     "id": 3596265
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.74",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3596691
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "55.59",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "星河天地华邸1栋",
-    "id": 3595861
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.99",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3596772
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "89.92",
     "houseUsageSplice": "住宅",
@@ -106,15 +79,6 @@
     "priceStr": "238",
     "projectName": "御湖境花园1栋",
     "id": 3596588
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "33.29",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "30",
-    "projectName": "峰荟时代科技中心",
-    "id": 3596486
   },
   {
     "averagePriceTotal": "51900",
@@ -160,15 +124,6 @@
     "priceStr": "590",
     "projectName": "百晟上府1栋",
     "id": 3596143
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "130",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3594140
   },
   {
     "averagePriceTotal": "--",
@@ -316,15 +271,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "47.88",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3593481
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "139.54",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -387,15 +333,6 @@
     "id": 3593368
   },
   {
-    "averagePriceTotal": "47200",
-    "buildInArea": "95.37",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "285",
-    "projectName": "福盈中央山花园北区3栋",
-    "id": 3588824
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "86.97",
     "houseUsageSplice": "住宅",
@@ -432,15 +369,6 @@
     "id": 3592935
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.3",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "148",
-    "projectName": "中粮云景广场",
-    "id": 3592692
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "88.61",
     "houseUsageSplice": "住宅",
@@ -466,24 +394,6 @@
     "priceStr": "330",
     "projectName": "乐府花园3栋",
     "id": 3602208
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "55.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "208",
-    "projectName": "星河天地公馆3栋",
-    "id": 3602181
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.02",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "78",
-    "projectName": "星河天地华邸1栋",
-    "id": 3602212
   },
   {
     "averagePriceTotal": "--",
@@ -559,30 +469,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.2",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "99",
-    "projectName": "明发光明轩",
-    "id": 3601436
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.32",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "379",
     "projectName": "星河天地花园一期",
     "id": 3601248
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "46.98",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3601241
   },
   {
     "averagePriceTotal": "46000",
@@ -703,15 +595,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "72",
-    "projectName": "中粮云景广场",
-    "id": 3598956
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "67.33",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -745,24 +628,6 @@
     "priceStr": "300",
     "projectName": "勤诚达正大城悦园13栋",
     "id": 3598725
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.06",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "135",
-    "projectName": "宏发天汇城二期1栋",
-    "id": 3598667
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.23",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "中粮云景广场",
-    "id": 3598640
   },
   {
     "averagePriceTotal": "--",
@@ -810,15 +675,6 @@
     "id": 3598385
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3598324
-  },
-  {
     "averagePriceTotal": "46800",
     "buildInArea": "135.86",
     "houseUsageSplice": "住宅",
@@ -835,15 +691,6 @@
     "priceStr": "400",
     "projectName": "云科府9栋",
     "id": 3597955
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "70.41",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3598185
   },
   {
     "averagePriceTotal": "--",
@@ -880,15 +727,6 @@
     "priceStr": "450",
     "projectName": "盛迪嘉光明壹号花园（一期）4号楼",
     "id": 3597771
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "璟悦轩",
-    "id": 3597801
   },
   {
     "averagePriceTotal": "48300",
@@ -943,15 +781,6 @@
     "priceStr": "255",
     "projectName": "勤诚达正大城悦园17栋",
     "id": 3543864
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.47",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "108",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3543775
   },
   {
     "averagePriceTotal": "--",
@@ -1042,15 +871,6 @@
     "priceStr": "650",
     "projectName": "电建地产洺悦府2栋",
     "id": 3433095
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "80",
-    "projectName": "璟悦轩",
-    "id": 3541156
   },
   {
     "averagePriceTotal": "48300",
@@ -1152,15 +972,6 @@
     "id": 3539286
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "108.16",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "168",
-    "projectName": "中粮云景广场",
-    "id": 3539201
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "131.96",
     "houseUsageSplice": "住宅",
@@ -1207,24 +1018,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "36.79",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3532816
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "100",
-    "projectName": "璟悦轩",
-    "id": 3531241
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.73",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -1261,42 +1054,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "77.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "286",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3537373
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "75.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "280",
-    "projectName": "宏发天汇城一期",
-    "id": 3536512
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "220",
-    "projectName": "宏发天汇城一期",
-    "id": 3536534
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "141.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "五房",
-    "priceStr": "400",
-    "projectName": "福盈中央山花园北区2栋",
-    "id": 3537128
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "135.75",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -1323,15 +1080,6 @@
     "id": 3536877
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "151",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3535968
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "61.21",
     "houseUsageSplice": "住宅",
@@ -1348,15 +1096,6 @@
     "priceStr": "700",
     "projectName": "峰境瑞府6栋",
     "id": 3534796
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "46.97",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "88",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3614319
   },
   {
     "averagePriceTotal": "--",
@@ -1393,15 +1132,6 @@
     "priceStr": "315",
     "projectName": "天汇时代花园二期1栋",
     "id": 3613938
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "62.38",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "中粮云景广场",
-    "id": 3613964
   },
   {
     "averagePriceTotal": "51900",
@@ -1485,15 +1215,6 @@
     "id": 3606229
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.41",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "72",
-    "projectName": "中粮云景广场",
-    "id": 3611885
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "88.96",
     "houseUsageSplice": "住宅",
@@ -1510,15 +1231,6 @@
     "priceStr": "240",
     "projectName": "中粮云景花园南区1栋",
     "id": 3611637
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "69",
-    "projectName": "中粮云景广场",
-    "id": 3611626
   },
   {
     "averagePriceTotal": "50000",
@@ -1566,15 +1278,6 @@
     "id": 3611106
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.46",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "82",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3611143
-  },
-  {
     "averagePriceTotal": "45000",
     "buildInArea": "79.92",
     "houseUsageSplice": "住宅",
@@ -1602,15 +1305,6 @@
     "id": 3610610
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.8",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3594080
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "89.18",
     "houseUsageSplice": "住宅",
@@ -1618,15 +1312,6 @@
     "priceStr": "360",
     "projectName": "中粮云景花园南区1栋",
     "id": 3609619
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "62.73",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "178",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3609820
   },
   {
     "averagePriceTotal": "--",
@@ -1701,15 +1386,6 @@
     "id": 3609334
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.68",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "48",
-    "projectName": "峰荟时代科技中心",
-    "id": 3609435
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "117.34",
     "houseUsageSplice": "住宅",
@@ -1717,15 +1393,6 @@
     "priceStr": "750",
     "projectName": "龙光玖龙台一期3栋",
     "id": 3609340
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.29",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "66",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3609158
   },
   {
     "averagePriceTotal": "44900",
@@ -1810,15 +1477,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "49.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "180",
-    "projectName": "勤诚达正大城和园",
-    "id": 3499040
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "95.4",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -1870,15 +1528,6 @@
     "priceStr": "480",
     "projectName": "中海寰宇时代花园3栋",
     "id": 3497857
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3497694
   },
   {
     "averagePriceTotal": "--",
@@ -1951,24 +1600,6 @@
     "priceStr": "368",
     "projectName": "华润置地公园九里花园6栋",
     "id": 3496003
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "56.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3495536
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "100",
-    "projectName": "璟悦轩",
-    "id": 3495012
   },
   {
     "averagePriceTotal": "--",
@@ -2098,15 +1729,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "46.25",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "中粮云景广场",
-    "id": 3491915
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "97.82",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2161,15 +1783,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "48.27",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "中粮云景广场",
-    "id": 3490463
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.63",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "五房",
@@ -2185,15 +1798,6 @@
     "priceStr": "350",
     "projectName": "乐府花园4栋",
     "id": 3490124
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "100",
-    "projectName": "璟悦轩",
-    "id": 3489877
   },
   {
     "averagePriceTotal": "--",
@@ -2287,15 +1891,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.04",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "130",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3546940
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "96.6",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2367,15 +1962,6 @@
     "id": 3551190
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.79",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "峰荟时代科技中心",
-    "id": 3550633
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "124.59",
     "houseUsageSplice": "住宅",
@@ -2395,39 +1981,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "65",
-    "projectName": "璟悦轩",
-    "id": 3549731
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "102.93",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "160",
-    "projectName": "中粮云景广场",
-    "id": 3547299
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "97.48",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "490",
     "projectName": "深铁瑞城4栋",
     "id": 3550207
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.19",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "265",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3550172
   },
   {
     "averagePriceTotal": "46000",
@@ -2575,33 +2134,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "36.17",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3546490
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.98",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "240",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3545538
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.43",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3546389
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.55",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2617,15 +2149,6 @@
     "priceStr": "680",
     "projectName": "龙光玖龙台二期7栋",
     "id": 3545863
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "105",
-    "projectName": "璟悦轩",
-    "id": 3543564
   },
   {
     "averagePriceTotal": "--",
@@ -2653,15 +2176,6 @@
     "priceStr": "400",
     "projectName": "峰境瑞府2栋",
     "id": 3545123
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.2",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "128",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3544967
   },
   {
     "averagePriceTotal": "--",
@@ -2872,15 +2386,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "65.66",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "149",
-    "projectName": "中粮云景广场",
-    "id": 3571375
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.17",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2917,15 +2422,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "75.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "290",
-    "projectName": "宏发天汇城一期",
-    "id": 3570886
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "65.62",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -2953,24 +2449,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3570663
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3570666
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "95.62",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2995,15 +2473,6 @@
     "priceStr": "300",
     "projectName": "百晟上府1栋",
     "id": 3569924
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "107.68",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "四房",
-    "priceStr": "220",
-    "projectName": "福盈中央山花园南区5栋",
-    "id": 3569774
   },
   {
     "averagePriceTotal": "--",
@@ -3105,15 +2574,6 @@
     "id": 3568940
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "明发光明轩",
-    "id": 3568936
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "102.35",
     "houseUsageSplice": "住宅",
@@ -3148,15 +2608,6 @@
     "priceStr": "540",
     "projectName": "龙光玖龙台一期3栋",
     "id": 3567892
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.7",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "110",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3518552
   },
   {
     "averagePriceTotal": "--",
@@ -3286,48 +2737,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "96",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "320",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3516576
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "90",
-    "projectName": "璟悦轩",
-    "id": 3516382
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.99",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "330",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3516494
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.46",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "435",
     "projectName": "深房光明里",
     "id": 3515688
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.94",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3515614
   },
   {
     "averagePriceTotal": "51900",
@@ -3337,33 +2752,6 @@
     "priceStr": "450",
     "projectName": "深房传麒山6号楼",
     "id": 3515565
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3515240
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "118",
-    "projectName": "璟悦轩",
-    "id": 3512207
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.23",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "68",
-    "projectName": "中粮云景广场",
-    "id": 3515020
   },
   {
     "averagePriceTotal": "--",
@@ -3394,30 +2782,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.08",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3512348
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "95.47",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "394",
     "projectName": "云科府6栋",
     "id": 3514152
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3507342
   },
   {
     "averagePriceTotal": "--",
@@ -3436,15 +2806,6 @@
     "priceStr": "150",
     "projectName": "锦鸿花园3栋",
     "id": 3514166
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.73",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3513918
   },
   {
     "averagePriceTotal": "--",
@@ -3481,15 +2842,6 @@
     "priceStr": "420",
     "projectName": "星河天地花园一期",
     "id": 3513346
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "66.8",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "210",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3513123
   },
   {
     "averagePriceTotal": "--",
@@ -3547,24 +2899,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "29.01",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3490623
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.92",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3490624
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "98.1",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -3583,15 +2917,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "51.53",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "110",
-    "projectName": "金茂公园里",
-    "id": 3509925
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "124.61",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -3607,15 +2932,6 @@
     "priceStr": "638",
     "projectName": "星河天地华府",
     "id": 3510039
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "57.96",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "80",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3509902
   },
   {
     "averagePriceTotal": "--",
@@ -3664,24 +2980,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "49.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "155",
-    "projectName": "璟悦轩",
-    "id": 3508859
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.73",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "198",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3509014
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.73",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -3724,15 +3022,6 @@
     "priceStr": "320",
     "projectName": "润曦府1栋",
     "id": 3506744
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "70",
-    "projectName": "璟悦轩",
-    "id": 3508292
   },
   {
     "averagePriceTotal": "--",
@@ -3850,15 +3139,6 @@
     "priceStr": "398",
     "projectName": "峰荟花园1栋",
     "id": 3501917
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "宏发天汇城一期",
-    "id": 3505020
   },
   {
     "averagePriceTotal": "--",
@@ -4041,15 +3321,6 @@
     "id": 3499493
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3499136
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "71.3",
     "houseUsageSplice": "住宅",
@@ -4158,15 +3429,6 @@
     "id": 3583692
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.85",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "中粮云景广场",
-    "id": 3583652
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "84.87",
     "houseUsageSplice": "住宅",
@@ -4219,33 +3481,6 @@
     "priceStr": "370",
     "projectName": "观月台2栋",
     "id": 3582910
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.46",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3582839
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3582838
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "27",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3582646
   },
   {
     "averagePriceTotal": "--",
@@ -4311,15 +3546,6 @@
     "id": 3581987
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.17",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "90",
-    "projectName": "中粮云景广场",
-    "id": 3581995
-  },
-  {
     "averagePriceTotal": "49600",
     "buildInArea": "121.68",
     "houseUsageSplice": "住宅",
@@ -4347,15 +3573,6 @@
     "id": 3581625
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "63.21",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "160",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3581146
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "75.66",
     "houseUsageSplice": "住宅",
@@ -4366,48 +3583,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "中粮云景广场",
-    "id": 3579449
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "27",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3580775
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.68",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "500",
     "projectName": "中海寰宇时代花园6栋",
     "id": 3580935
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.46",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "星河天地华邸1栋",
-    "id": 3579964
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.53",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "星河天地华邸1栋",
-    "id": 3579959
   },
   {
     "averagePriceTotal": "--",
@@ -4546,15 +3727,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "47.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "115",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3607447
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.01",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -4582,24 +3754,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "53.61",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "135",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3607529
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "明发光明轩",
-    "id": 3607106
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "83.51",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -4617,15 +3771,6 @@
     "id": 3607074
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.48",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3606325
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "257.65",
     "houseUsageSplice": "住宅",
@@ -4633,24 +3778,6 @@
     "priceStr": "1950",
     "projectName": "深房传麒山1号楼",
     "id": 3607166
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.25",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3606772
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "61.78",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3601929
   },
   {
     "averagePriceTotal": "--",
@@ -4671,15 +3798,6 @@
     "id": 3606801
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "141.94",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "五房以上",
-    "priceStr": "260",
-    "projectName": "峰荟时代科技中心",
-    "id": 3606761
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "89.38",
     "houseUsageSplice": "住宅",
@@ -4696,15 +3814,6 @@
     "priceStr": "530",
     "projectName": "龙光玖龙台一期2栋",
     "id": 3605569
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "41.49",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "38",
-    "projectName": "峰荟时代科技中心",
-    "id": 3606496
   },
   {
     "averagePriceTotal": "--",
@@ -4741,15 +3850,6 @@
     "priceStr": "370",
     "projectName": "宏发万悦山璟庭10栋",
     "id": 3605677
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3605743
   },
   {
     "averagePriceTotal": "--",
@@ -4842,33 +3942,6 @@
     "id": 3603873
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.07",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3603781
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "73.83",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "210",
-    "projectName": "福盈中央山花园南区5栋",
-    "id": 3602593
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "73.63",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "福盈中央山花园南区5栋",
-    "id": 3603241
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "85.5",
     "houseUsageSplice": "住宅",
@@ -4894,24 +3967,6 @@
     "priceStr": "416",
     "projectName": "宏发万悦山名庭4栋",
     "id": 3603244
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "252.72",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "五房以上",
-    "priceStr": "430",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3603328
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "73.25",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "166",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3602944
   },
   {
     "averagePriceTotal": "46000",
@@ -5031,15 +4086,6 @@
     "id": 3589762
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.55",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "208",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3591575
-  },
-  {
     "averagePriceTotal": "42300",
     "buildInArea": "110.32",
     "houseUsageSplice": "住宅",
@@ -5137,33 +4183,6 @@
     "priceStr": "298",
     "projectName": "峰荟花园1栋",
     "id": 3590440
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "81.9",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "200",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3589717
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3589700
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3589704
   },
   {
     "averagePriceTotal": "--",
@@ -5274,15 +4293,6 @@
     "id": 3587982
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "135",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3587827
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "34.82",
     "houseUsageSplice": "住宅",
@@ -5320,15 +4330,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "71.62",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "190",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3586723
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "77.37",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -5355,15 +4356,6 @@
     "id": 3586253
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "宏发天汇城一期",
-    "id": 3586187
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "89.83",
     "houseUsageSplice": "住宅",
@@ -5380,15 +4372,6 @@
     "priceStr": "410",
     "projectName": "万科光年四季花园1栋",
     "id": 3585805
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.79",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "43",
-    "projectName": "峰荟时代科技中心",
-    "id": 3585535
   },
   {
     "averagePriceTotal": "--",
@@ -5461,15 +4444,6 @@
     "priceStr": "318",
     "projectName": "乐府花园3栋",
     "id": 3533519
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.3",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "156",
-    "projectName": "中粮云景广场",
-    "id": 3533940
   },
   {
     "averagePriceTotal": "--",
@@ -5607,15 +4581,6 @@
     "id": 3530672
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.23",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "中粮云景广场",
-    "id": 3530277
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "71.3",
     "houseUsageSplice": "住宅",
@@ -5641,15 +4606,6 @@
     "priceStr": "325",
     "projectName": "宏发美域花园11栋",
     "id": 3529961
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "71.62",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3530023
   },
   {
     "averagePriceTotal": "--",
@@ -5697,15 +4653,6 @@
     "id": 3529770
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.27",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "113",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3529687
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "88.26",
     "houseUsageSplice": "住宅",
@@ -5713,15 +4660,6 @@
     "priceStr": "337",
     "projectName": "天汇时代花园一期5栋",
     "id": 3529272
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "70",
-    "projectName": "璟悦轩",
-    "id": 3529222
   },
   {
     "averagePriceTotal": "47200",
@@ -5740,15 +4678,6 @@
     "priceStr": "360",
     "projectName": "勤诚达正大城花园一期4栋",
     "id": 3524565
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "80",
-    "projectName": "璟悦轩",
-    "id": 3528806
   },
   {
     "averagePriceTotal": "--",
@@ -5778,24 +4707,6 @@
     "id": 3525414
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.79",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3527583
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.59",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "盛迪嘉光明新宝轩",
-    "id": 3527340
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "88.79",
     "houseUsageSplice": "住宅",
@@ -5803,15 +4714,6 @@
     "priceStr": "330",
     "projectName": "福盈中央山花园南区4栋",
     "id": 3526928
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "95.37",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "300",
-    "projectName": "福盈中央山花园北区3栋",
-    "id": 3526939
   },
   {
     "averagePriceTotal": "--",
@@ -5850,15 +4752,6 @@
     "id": 3526402
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.79",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "238",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3548353
-  },
-  {
     "averagePriceTotal": "50000",
     "buildInArea": "77.49",
     "houseUsageSplice": "住宅",
@@ -5875,15 +4768,6 @@
     "priceStr": "300",
     "projectName": "玺云著花园5栋",
     "id": 3567398
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "100",
-    "projectName": "璟悦轩",
-    "id": 3567289
   },
   {
     "averagePriceTotal": "51900",
@@ -6013,15 +4897,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3564412
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.89",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -6076,24 +4951,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.07",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3560627
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.07",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3560634
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.63",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -6138,15 +4995,6 @@
     "id": 3562294
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "46.75",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "98",
-    "projectName": "明发光明轩",
-    "id": 3561379
-  },
-  {
     "averagePriceTotal": "42300",
     "buildInArea": "110.32",
     "houseUsageSplice": "住宅",
@@ -6157,39 +5005,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "64.59",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "168",
-    "projectName": "宏发天汇城一期",
-    "id": 3561193
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.24",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "400",
     "projectName": "勤诚达正大城乐园22栋",
     "id": 3561656
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.43",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3561202
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "142.09",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "四房",
-    "priceStr": "300",
-    "projectName": "峰荟时代科技中心",
-    "id": 3561359
   },
   {
     "averagePriceTotal": "51900",
@@ -6283,24 +5104,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.67",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3559264
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.55",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "320",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3559230
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.73",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -6316,15 +5119,6 @@
     "priceStr": "340",
     "projectName": "峰荟花园1栋",
     "id": 3524087
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.23",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "118",
-    "projectName": "金茂公园里",
-    "id": 3525574
   },
   {
     "averagePriceTotal": "--",
@@ -6444,24 +5238,6 @@
     "id": 3523486
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "40.9",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "105",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3523044
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "25.1",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3523045
-  },
-  {
     "averagePriceTotal": "42300",
     "buildInArea": "110.43",
     "houseUsageSplice": "住宅",
@@ -6478,15 +5254,6 @@
     "priceStr": "330",
     "projectName": "天汇时代花园一期1栋",
     "id": 3522702
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.27",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "81",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3522230
   },
   {
     "averagePriceTotal": "46000",
@@ -6589,24 +5356,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "74.17",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "150",
-    "projectName": "中粮云景广场",
-    "id": 3521720
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "236",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3521187
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.29",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -6634,30 +5383,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "52.32",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "峰荟时代科技中心",
-    "id": 3520583
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.58",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "350",
     "projectName": "时光境花园4栋",
     "id": 3520494
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "61.74",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "220",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3519594
   },
   {
     "averagePriceTotal": "49600",
@@ -6714,15 +5445,6 @@
     "id": 3519736
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "89",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3519708
-  },
-  {
     "averagePriceTotal": "46800",
     "buildInArea": "88.81",
     "houseUsageSplice": "住宅",
@@ -6757,15 +5479,6 @@
     "priceStr": "290",
     "projectName": "盛迪嘉光明壹号花园（二期）3号楼",
     "id": 3577978
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.68",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "40",
-    "projectName": "峰荟时代科技中心",
-    "id": 3579348
   },
   {
     "averagePriceTotal": "--",
@@ -6958,15 +5671,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "70.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "星河天地公馆3栋",
-    "id": 3574970
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "94.61",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -7111,15 +5815,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.45",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3575089
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "107.76",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -7174,15 +5869,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "65",
-    "projectName": "璟悦轩",
-    "id": 3573837
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.49",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -7192,39 +5878,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "106",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3573524
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "98.26",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "430",
     "projectName": "万科光年四季花园1栋",
     "id": 3488601
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.02",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "55",
-    "projectName": "峰荟时代科技中心",
-    "id": 3460099
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.79",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "50",
-    "projectName": "峰荟时代科技中心",
-    "id": 3453368
   },
   {
     "averagePriceTotal": "48300",
@@ -7261,15 +5920,6 @@
     "priceStr": "370",
     "projectName": "天汇时代花园一期2栋",
     "id": 3447396
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.22",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3472878
   },
   {
     "averagePriceTotal": "--",
@@ -7353,15 +6003,6 @@
     "id": 3486666
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.81",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "59",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3486239
-  },
-  {
     "averagePriceTotal": "46000",
     "buildInArea": "96.53",
     "houseUsageSplice": "住宅",
@@ -7426,15 +6067,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "75.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "280",
-    "projectName": "宏发天汇城一期",
-    "id": 3483260
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "64.78",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -7450,15 +6082,6 @@
     "priceStr": "525",
     "projectName": "华润置地公园九里花园5栋",
     "id": 3484780
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "71.62",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "210",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3484824
   },
   {
     "averagePriceTotal": "51900",
@@ -7495,15 +6118,6 @@
     "priceStr": "320",
     "projectName": "天汇时代花园一期1栋",
     "id": 3483491
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.75",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "璟悦轩",
-    "id": 3483482
   },
   {
     "averagePriceTotal": "--",
@@ -7623,24 +6237,6 @@
     "id": 3481491
   },
   {
-    "averagePriceTotal": "45000",
-    "buildInArea": "77.16",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "347",
-    "projectName": "益田假日府邸",
-    "id": 3480353
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.3",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "140",
-    "projectName": "中粮云景广场",
-    "id": 3467762
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "84.1",
     "houseUsageSplice": "住宅",
@@ -7684,24 +6280,6 @@
     "priceStr": "450",
     "projectName": "中海寰宇时代花园4栋",
     "id": 3480613
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.25",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3479981
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.5",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "峰荟时代科技中心",
-    "id": 3478166
   },
   {
     "averagePriceTotal": "51900",
@@ -7776,15 +6354,6 @@
     "id": 3478354
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.79",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "240",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3477691
-  },
-  {
     "averagePriceTotal": "44900",
     "buildInArea": "89.66",
     "houseUsageSplice": "住宅",
@@ -7830,15 +6399,6 @@
     "id": 3477671
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.44",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "220",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3477650
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "104.27",
     "houseUsageSplice": "住宅",
@@ -7846,15 +6406,6 @@
     "priceStr": "600",
     "projectName": "龙光玖龙台一期2栋",
     "id": 3477470
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "58.8",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3476871
   },
   {
     "averagePriceTotal": "--",
@@ -7965,15 +6516,6 @@
     "id": 3475752
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "127",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3475624
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "89.65",
     "houseUsageSplice": "住宅",
@@ -8026,15 +6568,6 @@
     "priceStr": "438",
     "projectName": "峰境瑞府2栋",
     "id": 3474679
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.68",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "69.8",
-    "projectName": "峰荟时代科技中心",
-    "id": 3474298
   },
   {
     "averagePriceTotal": "49600",
@@ -8092,15 +6625,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "44.42",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3473180
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "65.46",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -8154,15 +6678,6 @@
     "id": 3558245
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "33.29",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "峰荟时代科技中心",
-    "id": 3558259
-  },
-  {
     "averagePriceTotal": "49600",
     "buildInArea": "83.57",
     "houseUsageSplice": "住宅",
@@ -8209,48 +6724,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.79",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "峰荟时代科技中心",
-    "id": 3557852
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "宏发天汇城一期",
-    "id": 3557313
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.8",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "155",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3542227
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "81.46",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "400",
     "projectName": "万科光年四季花园1栋",
     "id": 3554966
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.47",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3557061
   },
   {
     "averagePriceTotal": "--",
@@ -8497,15 +6976,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.56",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "116",
-    "projectName": "明发光明轩",
-    "id": 3553853
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "68.56",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -8593,15 +7063,6 @@
     "priceStr": "360",
     "projectName": "玺云著花园5栋",
     "id": 3387825
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "58.8",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "206",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3417346
   },
   {
     "averagePriceTotal": "--",
@@ -8748,15 +7209,6 @@
     "id": 3415708
   },
   {
-    "averagePriceTotal": "45000",
-    "buildInArea": "47.99",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "115",
-    "projectName": "益田假日府邸",
-    "id": 3415830
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "89.17",
     "houseUsageSplice": "住宅",
@@ -8820,24 +7272,6 @@
     "id": 3414974
   },
   {
-    "averagePriceTotal": "45000",
-    "buildInArea": "65.85",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "益田假日府邸",
-    "id": 3412331
-  },
-  {
-    "averagePriceTotal": "45000",
-    "buildInArea": "65.85",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "益田假日府邸",
-    "id": 3412335
-  },
-  {
     "averagePriceTotal": "46000",
     "buildInArea": "128.46",
     "houseUsageSplice": "住宅",
@@ -8863,24 +7297,6 @@
     "priceStr": "480",
     "projectName": "盛迪嘉光明壹号花园（一期）4号楼",
     "id": 3414213
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.07",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "115",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3413810
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "78.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "210",
-    "projectName": "宏发天汇城二期1栋",
-    "id": 3411252
   },
   {
     "averagePriceTotal": "46000",
@@ -9028,15 +7444,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.22",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "130",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3352685
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "94.14",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -9115,24 +7522,6 @@
     "priceStr": "330",
     "projectName": "天汇时代花园一期5栋",
     "id": 3350394
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "66.05",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "260",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3350169
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.23",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "三房",
-    "priceStr": "168",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3349996
   },
   {
     "averagePriceTotal": "--",
@@ -9307,15 +7696,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "77.86",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "225",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3345396
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "87.88",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -9406,24 +7786,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "46.98",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3330223
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.75",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "160",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3343193
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.8",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -9451,24 +7813,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "46.29",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "中粮云景广场",
-    "id": 3427292
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "54.14",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "峰荟时代科技中心",
-    "id": 3425792
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.56",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -9484,42 +7828,6 @@
     "priceStr": "449",
     "projectName": "宏发万悦山璟庭8栋",
     "id": 3425808
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "208",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3425855
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "160",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3424832
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.77",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3421434
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "71.86",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "130",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3421443
   },
   {
     "averagePriceTotal": "--",
@@ -9604,15 +7912,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "120",
-    "projectName": "璟悦轩",
-    "id": 3422429
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.75",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -9630,15 +7929,6 @@
     "id": 3422637
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "中粮云景广场",
-    "id": 3423064
-  },
-  {
     "averagePriceTotal": "46000",
     "buildInArea": "96.82",
     "houseUsageSplice": "住宅",
@@ -9646,15 +7936,6 @@
     "priceStr": "450",
     "projectName": "勤诚达正大城花园一期7栋",
     "id": 3422753
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "160",
-    "projectName": "宏发天汇城一期",
-    "id": 3422133
   },
   {
     "averagePriceTotal": "--",
@@ -9682,33 +7963,6 @@
     "priceStr": "475",
     "projectName": "福盈中央山花园北区3栋",
     "id": 3421984
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "57.96",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "90",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3422239
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "61.95",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "137",
-    "projectName": "中粮云景广场",
-    "id": 3422314
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "128",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3422144
   },
   {
     "averagePriceTotal": "--",
@@ -9766,30 +8020,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.57",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3421571
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.12",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "430",
     "projectName": "金融街华发融御花园一期3栋",
     "id": 3420814
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "100",
-    "projectName": "明发光明轩",
-    "id": 3418254
   },
   {
     "averagePriceTotal": "--",
@@ -10063,15 +8299,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "105",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3448533
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.6",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -10170,15 +8397,6 @@
     "id": 3444687
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "92",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3444690
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "104.27",
     "houseUsageSplice": "住宅",
@@ -10198,39 +8416,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "69.19",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3425113
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "71.47",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3444877
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.18",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "320",
     "projectName": "金地明峰府1栋",
     "id": 3445812
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "129",
-    "projectName": "璟悦轩",
-    "id": 3446212
   },
   {
     "averagePriceTotal": "--",
@@ -10270,15 +8461,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "44.81",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "199",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3422237
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "94.91",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -10294,60 +8476,6 @@
     "priceStr": "448",
     "projectName": "峰境瑞府1栋",
     "id": 3444994
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "120",
-    "projectName": "璟悦轩",
-    "id": 3444024
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "54.89",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "166",
-    "projectName": "峰荟时代科技中心",
-    "id": 3444569
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "60.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "106",
-    "projectName": "中粮云景广场",
-    "id": 3444536
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "122",
-    "projectName": "中粮云景广场",
-    "id": 3444468
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.73",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "155",
-    "projectName": "兆邦基端慧苑1栋",
-    "id": 3443952
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.42",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "中粮云景广场",
-    "id": 3443819
   },
   {
     "averagePriceTotal": "--",
@@ -10384,15 +8512,6 @@
     "priceStr": "488",
     "projectName": "深铁瑞城10栋",
     "id": 3457391
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.4",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3457158
   },
   {
     "averagePriceTotal": "--",
@@ -10474,15 +8593,6 @@
     "priceStr": "350",
     "projectName": "中粮云景花园南区1栋",
     "id": 3454325
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "59.12",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "中粮云景广场",
-    "id": 3456245
   },
   {
     "averagePriceTotal": "--",
@@ -10585,15 +8695,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "64.87",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "宏发天汇城一期",
-    "id": 3454572
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.88",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -10630,15 +8731,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "52.65",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "58",
-    "projectName": "峰荟时代科技中心",
-    "id": 3454280
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "112.46",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -10654,15 +8746,6 @@
     "priceStr": "2500",
     "projectName": "深房传麒山D11号楼",
     "id": 3454032
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "135",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3453915
   },
   {
     "averagePriceTotal": "50000",
@@ -10764,15 +8847,6 @@
     "id": 3451219
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "85.42",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "130",
-    "projectName": "峰荟时代科技中心",
-    "id": 3453236
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "86.69",
     "houseUsageSplice": "住宅",
@@ -10816,15 +8890,6 @@
     "priceStr": "368",
     "projectName": "佳兆业云峰汇花园（A520-0177）3栋",
     "id": 3435533
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "59.12",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "96",
-    "projectName": "中粮云景广场",
-    "id": 3436179
   },
   {
     "averagePriceTotal": "--",
@@ -10963,42 +9028,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "72.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "230",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3427263
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "73.63",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "210",
-    "projectName": "福盈中央山花园南区5栋",
-    "id": 3433479
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.46",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "88",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3431154
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "108",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3431160
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "94.83",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -11077,24 +9106,6 @@
     "priceStr": "426",
     "projectName": "天汇时代花园二期1栋",
     "id": 3428491
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "中粮云景广场",
-    "id": 3431865
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.23",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "中粮云景广场",
-    "id": 3431896
   },
   {
     "averagePriceTotal": "46000",
@@ -11196,15 +9207,6 @@
     "id": 3428998
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.15",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "168",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3428231
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "88.58",
     "houseUsageSplice": "住宅",
@@ -11230,24 +9232,6 @@
     "priceStr": "660",
     "projectName": "龙光玖龙台二期7栋",
     "id": 3427321
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.33",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "147",
-    "projectName": "峰荟时代科技中心",
-    "id": 3427260
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "65.66",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "139",
-    "projectName": "中粮云景广场",
-    "id": 3427278
   },
   {
     "averagePriceTotal": "--",
@@ -11332,30 +9316,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "96.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "300",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3358022
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "84.1",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "520",
     "projectName": "中海寰宇时代花园2栋",
     "id": 3407308
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.76",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "135",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3407983
   },
   {
     "averagePriceTotal": "46000",
@@ -11365,24 +9331,6 @@
     "priceStr": "370",
     "projectName": "勤诚达正大城花园一期7栋",
     "id": 3407778
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "210",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3406997
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "65.71",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "130",
-    "projectName": "中粮云景广场",
-    "id": 3407552
   },
   {
     "averagePriceTotal": "46000",
@@ -11422,30 +9370,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "110",
-    "projectName": "璟悦轩",
-    "id": 3405703
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "96.3",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "460",
     "projectName": "中海观园6栋",
     "id": 3404810
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.79",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "52",
-    "projectName": "峰荟时代科技中心",
-    "id": 3405735
   },
   {
     "averagePriceTotal": "48300",
@@ -11485,30 +9415,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.27",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "115",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3401097
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.89",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "510",
     "projectName": "中海寰宇时代花园3栋",
     "id": 3403349
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.12",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "峰荟时代科技中心",
-    "id": 3403477
   },
   {
     "averagePriceTotal": "49600",
@@ -11527,15 +9439,6 @@
     "priceStr": "305",
     "projectName": "新地中央花园1号楼",
     "id": 3403107
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "55.3",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3401223
   },
   {
     "averagePriceTotal": "--",
@@ -11626,15 +9529,6 @@
     "priceStr": "698",
     "projectName": "星河天地花园一期",
     "id": 3400962
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.2",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3401356
   },
   {
     "averagePriceTotal": "--",
@@ -11764,15 +9658,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "96.25",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "305",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3463160
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "96.67",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -11788,15 +9673,6 @@
     "priceStr": "399",
     "projectName": "勤诚达正大城花园一期7栋",
     "id": 3460639
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "110",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3463113
   },
   {
     "averagePriceTotal": "46800",
@@ -11952,15 +9828,6 @@
     "id": 3460711
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "27.57",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "50",
-    "projectName": "红星创智广场2栋",
-    "id": 3460665
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "88.87",
     "houseUsageSplice": "住宅",
@@ -11968,15 +9835,6 @@
     "priceStr": "320",
     "projectName": "宏发嘉域花园二期1栋B塔楼",
     "id": 3460562
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "73.08",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "290",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3460188
   },
   {
     "averagePriceTotal": "49600",
@@ -11995,15 +9853,6 @@
     "priceStr": "380",
     "projectName": "星河天地花园一期",
     "id": 3456982
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "95.37",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "285",
-    "projectName": "福盈中央山花园北区3栋",
-    "id": 3459424
   },
   {
     "averagePriceTotal": "49600",
@@ -12106,33 +9955,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "41.35",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "200",
-    "projectName": "中海寰宇时代花园13栋",
-    "id": 3458298
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "41.78",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "210",
-    "projectName": "中海寰宇时代花园13栋",
-    "id": 3458302
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "41.78",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "200",
-    "projectName": "中海寰宇时代花园13栋",
-    "id": 3458307
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.87",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -12175,33 +9997,6 @@
     "priceStr": "350",
     "projectName": "盛迪嘉光明壹号花园（一期）4号楼",
     "id": 3384750
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.17",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "143",
-    "projectName": "中粮云景广场",
-    "id": 3381302
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.48",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "130",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3385055
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3384000
   },
   {
     "averagePriceTotal": "46000",
@@ -12265,15 +10060,6 @@
     "priceStr": "319",
     "projectName": "华润置地公园九里花园2栋",
     "id": 3384166
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.89",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "99",
-    "projectName": "明发光明轩",
-    "id": 3383813
   },
   {
     "averagePriceTotal": "--",
@@ -12366,15 +10152,6 @@
     "id": 3381867
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "中粮云景广场",
-    "id": 3382615
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "126.22",
     "houseUsageSplice": "住宅",
@@ -12400,24 +10177,6 @@
     "priceStr": "630",
     "projectName": "龙光玖龙台二期7栋",
     "id": 3382496
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.79",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "峰荟时代科技中心",
-    "id": 3382529
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.13",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "83",
-    "projectName": "中粮云景广场",
-    "id": 3382511
   },
   {
     "averagePriceTotal": "48300",
@@ -12483,15 +10242,6 @@
     "id": 3372819
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.3",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "中粮云景广场",
-    "id": 3380455
-  },
-  {
     "averagePriceTotal": "49600",
     "buildInArea": "121.67",
     "houseUsageSplice": "住宅",
@@ -12526,15 +10276,6 @@
     "priceStr": "620",
     "projectName": "龙光玖龙台一期1栋",
     "id": 3380092
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "75.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "240",
-    "projectName": "宏发天汇城一期",
-    "id": 3379391
   },
   {
     "averagePriceTotal": "51900",
@@ -12598,15 +10339,6 @@
     "priceStr": "586",
     "projectName": "峰荟花园3栋",
     "id": 3379430
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.2",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "125",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3343939
   },
   {
     "averagePriceTotal": "29200",
@@ -12679,15 +10411,6 @@
     "priceStr": "500",
     "projectName": "金融街华发融御花园二期1栋",
     "id": 3343095
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3342120
   },
   {
     "averagePriceTotal": "--",
@@ -12916,24 +10639,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "190",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3339379
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "80",
-    "projectName": "璟悦轩",
-    "id": 3338915
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.51",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -12958,24 +10663,6 @@
     "priceStr": "380",
     "projectName": "勤诚达正大城花园一期7栋",
     "id": 3338460
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.23",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "180",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3338488
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "30.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3338838
   },
   {
     "averagePriceTotal": "51900",
@@ -13015,15 +10702,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "116",
-    "projectName": "璟悦轩",
-    "id": 3338244
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.56",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "五房",
@@ -13059,15 +10737,6 @@
     "id": 3472949
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3472254
-  },
-  {
     "averagePriceTotal": "47200",
     "buildInArea": "44.98",
     "houseUsageSplice": "住宅",
@@ -13075,15 +10744,6 @@
     "priceStr": "168",
     "projectName": "宏发上域花园1#楼",
     "id": 3469545
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.94",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "79",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3469047
   },
   {
     "averagePriceTotal": "51900",
@@ -13177,39 +10837,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "343.77",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "700",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3470438
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "114.15",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
     "priceStr": "600",
     "projectName": "云科府4栋",
     "id": 3469966
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "248.17",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "500",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3470444
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "248.17",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "500",
-    "projectName": "万科光年四季花园1栋",
-    "id": 3470447
   },
   {
     "averagePriceTotal": "--",
@@ -13228,15 +10861,6 @@
     "priceStr": "279",
     "projectName": "勤诚达正大城悦园11栋",
     "id": 3470635
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "78.1",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "286",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3462838
   },
   {
     "averagePriceTotal": "--",
@@ -13282,15 +10906,6 @@
     "priceStr": "350",
     "projectName": "盛迪嘉光明壹号花园（三期）7号楼",
     "id": 3469841
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "85",
-    "projectName": "璟悦轩",
-    "id": 3468820
   },
   {
     "averagePriceTotal": "--",
@@ -13384,15 +10999,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "87.03",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "中粮云景广场",
-    "id": 3467871
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.87",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -13411,15 +11017,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "61.99",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "98",
-    "projectName": "中粮云景广场",
-    "id": 3466308
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "103.94",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -13435,15 +11032,6 @@
     "priceStr": "375",
     "projectName": "福盈中央山花园北区3栋",
     "id": 3466187
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "75.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "270",
-    "projectName": "宏发天汇城一期",
-    "id": 3465723
   },
   {
     "averagePriceTotal": "48300",
@@ -13465,33 +11053,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "41.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "115",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3465698
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "78",
-    "projectName": "中粮云景广场",
-    "id": 3465382
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "72.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "250",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3465296
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.87",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -13507,15 +11068,6 @@
     "priceStr": "660",
     "projectName": "龙光玖龙台一期2栋",
     "id": 3372775
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.65",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "128",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3371201
   },
   {
     "averagePriceTotal": "--",
@@ -13626,15 +11178,6 @@
     "id": 3371898
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.42",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3371754
-  },
-  {
     "averagePriceTotal": "46800",
     "buildInArea": "81.92",
     "houseUsageSplice": "住宅",
@@ -13645,30 +11188,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "44.42",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3371273
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "108.18",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "650",
     "projectName": "中海寰宇时代花园1栋",
     "id": 3370720
-  },
-  {
-    "averagePriceTotal": "45000",
-    "buildInArea": "45.82",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "104",
-    "projectName": "益田假日府邸",
-    "id": 3370452
   },
   {
     "averagePriceTotal": "--",
@@ -13735,15 +11260,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "58.8",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "190",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3369819
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "124.39",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -13786,15 +11302,6 @@
     "priceStr": "590",
     "projectName": "龙光玖龙台二期7栋",
     "id": 3369536
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "75",
-    "projectName": "璟悦轩",
-    "id": 3369506
   },
   {
     "averagePriceTotal": "51900",
@@ -13840,15 +11347,6 @@
     "priceStr": "275",
     "projectName": "乐府花园1栋",
     "id": 3368525
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "78",
-    "projectName": "璟悦轩",
-    "id": 3368754
   },
   {
     "averagePriceTotal": "49600",
@@ -13897,39 +11395,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "72.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "300",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3367538
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "102.52",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "600",
     "projectName": "龙光玖龙台二期7栋",
     "id": 3367023
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "120",
-    "projectName": "璟悦轩",
-    "id": 3367677
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.07",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3367682
   },
   {
     "averagePriceTotal": "--",
@@ -13959,24 +11430,6 @@
     "id": 3399709
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "60.96",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3399584
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "60.96",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3399608
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "89.27",
     "houseUsageSplice": "住宅",
@@ -13984,15 +11437,6 @@
     "priceStr": "469",
     "projectName": "龙光玖龙台一期3栋",
     "id": 3399658
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "81.9",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "138",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3399582
   },
   {
     "averagePriceTotal": "--",
@@ -14032,15 +11476,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "41.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "105",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3393715
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "79.99",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14059,15 +11494,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "61.99",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "220",
-    "projectName": "中粮云景广场",
-    "id": 3396704
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.57",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14083,15 +11509,6 @@
     "priceStr": "638",
     "projectName": "中粮云景花园南区3栋",
     "id": 3398006
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "118",
-    "projectName": "璟悦轩",
-    "id": 3397634
   },
   {
     "averagePriceTotal": "--",
@@ -14175,15 +11592,6 @@
     "id": 3394504
   },
   {
-    "averagePriceTotal": "47200",
-    "buildInArea": "141.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "四房",
-    "priceStr": "430",
-    "projectName": "福盈中央山花园北区2栋",
-    "id": 3264928
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "88.35",
     "houseUsageSplice": "住宅",
@@ -14212,30 +11620,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "72.56",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "200",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3394225
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.8",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "340",
     "projectName": "星河天地花园一期",
     "id": 3394228
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.91",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "62",
-    "projectName": "明发光明轩",
-    "id": 3394418
   },
   {
     "averagePriceTotal": "--",
@@ -14356,15 +11746,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "27.57",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "48",
-    "projectName": "红星创智广场2栋",
-    "id": 3391765
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.79",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14401,42 +11782,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "59.92",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "139",
-    "projectName": "中粮云景广场",
-    "id": 3443829
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "65.66",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "129",
-    "projectName": "中粮云景广场",
-    "id": 3443837
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "中粮云景广场",
-    "id": 3443845
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "88.07",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "220",
-    "projectName": "峰荟时代科技中心",
-    "id": 3443848
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.81",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14461,15 +11806,6 @@
     "priceStr": "280",
     "projectName": "中粮云景花园南区4栋",
     "id": 3442923
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.84",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "148",
-    "projectName": "明发光明轩",
-    "id": 3443149
   },
   {
     "averagePriceTotal": "--",
@@ -14599,15 +11935,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "52.42",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "峰荟时代科技中心",
-    "id": 3440515
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "96.35",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14617,75 +11944,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "54.89",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "58",
-    "projectName": "峰荟时代科技中心",
-    "id": 3440021
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "88.74",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "一房",
-    "priceStr": "195",
-    "projectName": "中粮云景广场",
-    "id": 3440023
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.27",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "中粮云景广场",
-    "id": 3440236
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "72.56",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
     "priceStr": "250",
     "projectName": "勤诚达正大城和园",
     "id": 3437155
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.23",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "明发光明轩",
-    "id": 3439172
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "59.86",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "108",
-    "projectName": "中粮云景广场",
-    "id": 3439151
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.93",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "68",
-    "projectName": "峰荟时代科技中心",
-    "id": 3439088
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "198",
-    "projectName": "宏发天汇城一期",
-    "id": 3438919
   },
   {
     "averagePriceTotal": "--",
@@ -14797,30 +12061,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "96",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "298",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3437695
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "420",
     "projectName": "中海寰宇时代花园5栋",
     "id": 3428573
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.56",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "150",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3437583
   },
   {
     "averagePriceTotal": "51900",
@@ -14893,15 +12139,6 @@
     "priceStr": "600",
     "projectName": "星河天地花园一期",
     "id": 3390353
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.88",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "150",
-    "projectName": "特区建发乐府广场2栋公寓",
-    "id": 3389914
   },
   {
     "averagePriceTotal": "48300",
@@ -14986,30 +12223,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "69.19",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3387176
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "68.79",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
     "priceStr": "280",
     "projectName": "乐府花园3栋",
     "id": 3387777
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.33",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "118",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3388346
   },
   {
     "averagePriceTotal": "46000",
@@ -15028,15 +12247,6 @@
     "priceStr": "335",
     "projectName": "天汇时代花园二期2栋",
     "id": 3388356
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "59.7",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "三房",
-    "priceStr": "95",
-    "projectName": "中粮云景广场",
-    "id": 3387929
   },
   {
     "averagePriceTotal": "51900",
@@ -15064,15 +12274,6 @@
     "priceStr": "850",
     "projectName": "龙光玖龙台一期2栋",
     "id": 2188778
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "77.05",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "190",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3387711
   },
   {
     "averagePriceTotal": "--",
@@ -15109,33 +12310,6 @@
     "priceStr": "598",
     "projectName": "峰境瑞府1栋",
     "id": 3387319
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.57",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "255",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3383137
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.27",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "中粮云景广场",
-    "id": 3386819
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "61.95",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "中粮云景广场",
-    "id": 3386360
   },
   {
     "averagePriceTotal": "--",
@@ -15193,15 +12367,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "43.13",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "149",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3386012
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "80.84",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -15228,15 +12393,6 @@
     "id": 3379523
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "62.44",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "205",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3385767
-  },
-  {
     "averagePriceTotal": "45800",
     "buildInArea": "101.32",
     "houseUsageSplice": "住宅",
@@ -15244,15 +12400,6 @@
     "priceStr": "570",
     "projectName": "宏发*雍景城A栋",
     "id": 3385671
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "27.57",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "红星创智广场2栋",
-    "id": 3385630
   },
   {
     "averagePriceTotal": "--",
@@ -15336,15 +12483,6 @@
     "id": 3378462
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.01",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "150",
-    "projectName": "勤诚达正大城和园",
-    "id": 3378019
-  },
-  {
     "averagePriceTotal": "49600",
     "buildInArea": "88.59",
     "houseUsageSplice": "住宅",
@@ -15409,15 +12547,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "46.36",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "82",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3365650
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.01",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -15433,15 +12562,6 @@
     "priceStr": "460",
     "projectName": "中海观园1栋",
     "id": 3376157
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "88",
-    "projectName": "璟悦轩",
-    "id": 3377686
   },
   {
     "averagePriceTotal": "48300",
@@ -15460,15 +12580,6 @@
     "priceStr": "480",
     "projectName": "云科府7栋",
     "id": 3329063
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "61.78",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "198",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3377177
   },
   {
     "averagePriceTotal": "44900",
@@ -15496,15 +12607,6 @@
     "priceStr": "580",
     "projectName": "天汇时代花园一期1栋",
     "id": 3376927
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "130",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3375814
   },
   {
     "averagePriceTotal": "51900",
@@ -15544,15 +12646,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "72",
-    "projectName": "璟悦轩",
-    "id": 3374838
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.12",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -15568,15 +12661,6 @@
     "priceStr": "330",
     "projectName": "盛迪嘉光明壹号花园（二期）3号楼",
     "id": 3376027
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.41",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3375760
   },
   {
     "averagePriceTotal": "46000",
@@ -15622,15 +12706,6 @@
     "priceStr": "400",
     "projectName": "中海寰宇时代花园6栋",
     "id": 3373705
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "74.17",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "149",
-    "projectName": "中粮云景广场",
-    "id": 3375164
   },
   {
     "averagePriceTotal": "--",
@@ -15697,15 +12772,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.53",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3374474
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -15730,15 +12796,6 @@
     "priceStr": "650",
     "projectName": "勤诚达正大城花园一期1栋",
     "id": 3374245
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "150",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3373247
   },
   {
     "averagePriceTotal": "--",
@@ -15805,15 +12862,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.2",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "125",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3359531
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "169.81",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "五房",
@@ -15847,15 +12895,6 @@
     "priceStr": "650",
     "projectName": "星河天地花园一期",
     "id": 3357466
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.33",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "峰荟时代科技中心",
-    "id": 3355191
   },
   {
     "averagePriceTotal": "51900",
@@ -15964,15 +13003,6 @@
     "priceStr": "500",
     "projectName": "中海寰宇时代花园3栋",
     "id": 3356533
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.27",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "76",
-    "projectName": "中粮云景广场",
-    "id": 3356397
   },
   {
     "averagePriceTotal": "--",
@@ -16147,30 +13177,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.65",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "136",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3354000
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.86",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "520",
     "projectName": "中海寰宇时代花园4栋",
     "id": 3353475
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "186",
-    "projectName": "璟悦轩",
-    "id": 3353566
   },
   {
     "averagePriceTotal": "--",
@@ -16255,15 +13267,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.84",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "79",
-    "projectName": "中粮云景广场",
-    "id": 3326497
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.37",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -16279,15 +13282,6 @@
     "priceStr": "600",
     "projectName": "宏发万悦山名庭7栋",
     "id": 3326321
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "160",
-    "projectName": "璟悦轩",
-    "id": 3327494
   },
   {
     "averagePriceTotal": "49600",
@@ -16315,24 +13309,6 @@
     "priceStr": "658",
     "projectName": "玺云著花园2栋",
     "id": 3314258
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "86.25",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "一房",
-    "priceStr": "179",
-    "projectName": "中粮云景广场",
-    "id": 3326691
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "54.05",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "108",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3300577
   },
   {
     "averagePriceTotal": "--",
@@ -16372,15 +13348,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "59.29",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "中粮云景广场",
-    "id": 3324005
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "115.3",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -16414,24 +13381,6 @@
     "priceStr": "718",
     "projectName": "绿地新都会公馆4栋",
     "id": 3322734
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "65.59",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "236",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3321246
-  },
-  {
-    "averagePriceTotal": "45800",
-    "buildInArea": "56.2",
-    "houseUsageSplice": "商业金融业",
-    "hxTypeStr": "其它",
-    "priceStr": "200",
-    "projectName": "宏发*雍景城F栋",
-    "id": 3323251
   },
   {
     "averagePriceTotal": "--",
@@ -16480,15 +13429,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.26",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "118",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3320941
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "95.75",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -16525,24 +13465,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "48.27",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "86",
-    "projectName": "中粮云景广场",
-    "id": 3322214
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.45",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3321696
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.85",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -16558,24 +13480,6 @@
     "priceStr": "450",
     "projectName": "润晖府2栋",
     "id": 3322037
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "96",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "350",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3321551
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.73",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "87",
-    "projectName": "宏发嘉域花园一期3栋C塔楼",
-    "id": 3321657
   },
   {
     "averagePriceTotal": "48300",
@@ -16659,15 +13563,6 @@
     "id": 3366531
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "41.6",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "峰荟时代科技中心",
-    "id": 3366866
-  },
-  {
     "averagePriceTotal": "45000",
     "buildInArea": "79.92",
     "houseUsageSplice": "住宅",
@@ -16702,15 +13597,6 @@
     "priceStr": "530",
     "projectName": "玺云著花园7栋",
     "id": 3364748
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "64.9",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "280",
-    "projectName": "宏发天汇城一期",
-    "id": 3366413
   },
   {
     "averagePriceTotal": "--",
@@ -16795,48 +13681,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "46.98",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3364121
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.74",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "275",
     "projectName": "金地明峰府2栋",
     "id": 3363923
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.68",
-    "houseUsageSplice": "宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "62.8",
-    "projectName": "峰荟时代科技中心",
-    "id": 3363766
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.13",
-    "houseUsageSplice": "产业研发用房",
-    "hxTypeStr": "二房",
-    "priceStr": "79",
-    "projectName": "峰荟时代科技中心",
-    "id": 3363789
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "73.63",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "205",
-    "projectName": "福盈中央山花园南区5栋",
-    "id": 3363853
   },
   {
     "averagePriceTotal": "--",
@@ -16891,15 +13741,6 @@
     "priceStr": "295",
     "projectName": "天汇时代花园二期1栋",
     "id": 3363013
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "53.61",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "105",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3355730
   },
   {
     "averagePriceTotal": "--",
@@ -17064,33 +13905,6 @@
     "id": 3360285
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "68.88",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "158",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3360583
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3360587
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "86.82",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "198",
-    "projectName": "中粮云景广场",
-    "id": 3360570
-  },
-  {
     "averagePriceTotal": "50000",
     "buildInArea": "89",
     "houseUsageSplice": "住宅",
@@ -17199,15 +14013,6 @@
     "id": 3336485
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "43.91",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "190",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3332524
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "87.5",
     "houseUsageSplice": "住宅",
@@ -17215,15 +14020,6 @@
     "priceStr": "400",
     "projectName": "天汇时代花园一期2栋",
     "id": 3335976
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "57.96",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "90",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3335916
   },
   {
     "averagePriceTotal": "--",
@@ -17397,15 +14193,6 @@
     "id": 3331844
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "47.81",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3331400
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "89.5",
     "houseUsageSplice": "住宅",
@@ -17413,15 +14200,6 @@
     "priceStr": "380",
     "projectName": "宏发嘉域花园二期1栋B塔楼",
     "id": 3332909
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "77.05",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "170",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3332347
   },
   {
     "averagePriceTotal": "48300",
@@ -17485,15 +14263,6 @@
     "priceStr": "378",
     "projectName": "益田假日府邸",
     "id": 3330454
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.93",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "勤诚达正大城和园",
-    "id": 3330473
   },
   {
     "averagePriceTotal": "48300",
@@ -17596,15 +14365,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "142",
-    "projectName": "璟悦轩",
-    "id": 3315725
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.89",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -17632,15 +14392,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "63.21",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "270",
-    "projectName": "星河天地花园二期1栋",
-    "id": 3318846
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.32",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -17665,15 +14416,6 @@
     "priceStr": "330",
     "projectName": "中粮云景花园南区5栋",
     "id": 3085383
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "76.04",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "明发光明轩",
-    "id": 3318067
   },
   {
     "averagePriceTotal": "49600",
@@ -17776,15 +14518,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.41",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3306340
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "89.62",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -17863,15 +14596,6 @@
     "priceStr": "350",
     "projectName": "佳兆业云峰汇花园（A520-0178）4栋",
     "id": 3314906
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "71.62",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "220",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3312904
   },
   {
     "averagePriceTotal": "--",
@@ -18055,15 +14779,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "38.4",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "80",
-    "projectName": "璟悦轩",
-    "id": 3311992
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "92.43",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -18244,15 +14959,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "42.92",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "110",
-    "projectName": "新地中央广场商务公寓",
-    "id": 3309484
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "84.84",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -18379,30 +15085,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "48.23",
-    "houseUsageSplice": "产业研发",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "中粮云景广场",
-    "id": 3307191
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.81",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "400",
     "projectName": "乐府花园4栋",
     "id": 3307152
-  },
-  {
-    "averagePriceTotal": "47200",
-    "buildInArea": "105.84",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "四房",
-    "priceStr": "250",
-    "projectName": "福盈中央山花园北区3栋",
-    "id": 3306570
   },
   {
     "averagePriceTotal": "48300",
@@ -18540,15 +15228,6 @@
     "id": 3304543
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.45",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "92",
-    "projectName": "碧桂园星荟大厦",
-    "id": 3300848
-  },
-  {
     "averagePriceTotal": "48300",
     "buildInArea": "127.46",
     "houseUsageSplice": "住宅",
@@ -18619,15 +15298,6 @@
     "priceStr": "480",
     "projectName": "金融街华发融御花园一期2栋",
     "id": 3304235
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "55.66",
-    "houseUsageSplice": "研发用房",
-    "hxTypeStr": "三房",
-    "priceStr": "70",
-    "projectName": "时间谷创意大厦2栋",
-    "id": 3304366
   },
   {
     "averagePriceTotal": "--",
@@ -18747,15 +15417,6 @@
     "id": 3301495
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.41",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "128",
-    "projectName": "明发光明轩",
-    "id": 3301776
-  },
-  {
     "averagePriceTotal": "51900",
     "buildInArea": "142.28",
     "houseUsageSplice": "住宅",
@@ -18781,15 +15442,6 @@
     "priceStr": "500",
     "projectName": "宏发*雍景城A栋",
     "id": 3300962
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "81.9",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "盛迪嘉光明壹号花园（一期）8号楼",
-    "id": 3301588
   },
   {
     "averagePriceTotal": "--",
@@ -18835,15 +15487,6 @@
     "priceStr": "450",
     "projectName": "勤诚达正大城花园一期7栋",
     "id": 3300804
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "42.28",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "二房",
-    "priceStr": "130",
-    "projectName": "龙光玖龙台三期6栋",
-    "id": 3300879
   },
   {
     "averagePriceTotal": "46000",
@@ -18892,24 +15535,6 @@
   },
   {
     "averagePriceTotal": "47200",
-    "buildInArea": "67.22",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "福盈中央山花园北区2栋",
-    "id": 3295432
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "75.72",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "280",
-    "projectName": "宏发天汇城一期",
-    "id": 3295472
-  },
-  {
-    "averagePriceTotal": "47200",
     "buildInArea": "116.52",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -18952,24 +15577,6 @@
     "priceStr": "320",
     "projectName": "宏发嘉域花园二期1栋C塔楼",
     "id": 3298625
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "48.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "155",
-    "projectName": "兆邦基端慧苑1栋",
-    "id": 3298586
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "150",
-    "projectName": "璟悦轩",
-    "id": 3292094
   },
   {
     "averagePriceTotal": "--",
@@ -19051,15 +15658,6 @@
     "priceStr": "480",
     "projectName": "云科府4栋",
     "id": 3289850
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "86.25",
-    "houseUsageSplice": "配套办公",
-    "hxTypeStr": "三房",
-    "priceStr": "190",
-    "projectName": "中粮云景广场",
-    "id": 3296757
   },
   {
     "averagePriceTotal": "--",
@@ -19189,15 +15787,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "47.73",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "140",
-    "projectName": "兆邦基端慧苑1栋",
-    "id": 3292148
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "127.87",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -19225,30 +15814,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "41.22",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "115",
-    "projectName": "星河天地公馆3栋",
-    "id": 3292275
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "77.28",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "398",
     "projectName": "天汇时代花园二期3栋",
     "id": 3292066
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "49.78",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "188",
-    "projectName": "璟悦轩",
-    "id": 3291709
   },
   {
     "averagePriceTotal": "--",

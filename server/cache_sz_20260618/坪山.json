@@ -45,15 +45,6 @@
     "id": 3599651
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "86.58",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "凤凰公馆3栋",
-    "id": 3599408
-  },
-  {
     "averagePriceTotal": "33800",
     "buildInArea": "74.53",
     "houseUsageSplice": "住宅",
@@ -91,15 +82,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.07",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3598872
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "64.58",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -115,24 +97,6 @@
     "priceStr": "239",
     "projectName": "京基御景印象家园四期2栋",
     "id": 3599098
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "62",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3599115
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3597981
   },
   {
     "averagePriceTotal": "--",
@@ -289,30 +253,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "54.1",
-    "houseUsageSplice": "培训",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3597825
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "84.4",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "250",
     "projectName": "佳华沙湖广场5栋",
     "id": 3597604
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.29",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3597692
   },
   {
     "averagePriceTotal": "38800",
@@ -322,15 +268,6 @@
     "priceStr": "230",
     "projectName": "京基御景印象家园1栋",
     "id": 3597693
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.63",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3597695
   },
   {
     "averagePriceTotal": "23800",
@@ -432,15 +369,6 @@
     "id": 3596564
   },
   {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.38",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3596432
-  },
-  {
     "averagePriceTotal": "28400",
     "buildInArea": "87.08",
     "houseUsageSplice": "住宅",
@@ -468,15 +396,6 @@
     "id": 3584429
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3584470
-  },
-  {
     "averagePriceTotal": "36100",
     "buildInArea": "89.29",
     "houseUsageSplice": "住宅",
@@ -493,15 +412,6 @@
     "priceStr": "280",
     "projectName": "力高君御花园1号～6号、11号楼",
     "id": 3583978
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "78",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3584218
   },
   {
     "averagePriceTotal": "42000",
@@ -567,15 +477,6 @@
     "id": 3583050
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.21",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "55",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3583197
-  },
-  {
     "averagePriceTotal": "38000",
     "buildInArea": "80.99",
     "houseUsageSplice": "住宅",
@@ -592,15 +493,6 @@
     "priceStr": "270",
     "projectName": "力高君御花园1号～6号、11号楼",
     "id": 3582816
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.08",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3582173
   },
   {
     "averagePriceTotal": "--",
@@ -666,15 +558,6 @@
     "id": 3582168
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.35",
-    "houseUsageSplice": "商业性办公 ",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3581741
-  },
-  {
     "averagePriceTotal": "34200",
     "buildInArea": "77.29",
     "houseUsageSplice": "住宅",
@@ -721,30 +604,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "34.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "42",
-    "projectName": "世茂广场2栋",
-    "id": 3580287
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "80.27",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "170",
     "projectName": "奥园·翡翠东湾二期花园6栋",
     "id": 3579866
-  },
-  {
-    "averagePriceTotal": "34200",
-    "buildInArea": "18.86",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "46",
-    "projectName": "奥园．翡翠东湾花园3栋",
-    "id": 3579919
   },
   {
     "averagePriceTotal": "34900",
@@ -820,15 +685,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "82.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "128",
-    "projectName": "新城东方丽园5栋",
-    "id": 3578748
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "80.53",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -889,15 +745,6 @@
     "priceStr": "200",
     "projectName": "京基御景印象家园三期1栋F座",
     "id": 3577566
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "110.33",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "六和商业广场一期",
-    "id": 3575614
   },
   {
     "averagePriceTotal": "33100",
@@ -1107,15 +954,6 @@
     "id": 3567571
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.1",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3567233
-  },
-  {
     "averagePriceTotal": "40600",
     "buildInArea": "89.15",
     "houseUsageSplice": "住宅",
@@ -1215,15 +1053,6 @@
     "id": 3565464
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "46.7",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3565299
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "88.85",
     "houseUsageSplice": "住宅",
@@ -1269,15 +1098,6 @@
     "id": 3564925
   },
   {
-    "averagePriceTotal": "33100",
-    "buildInArea": "50.63",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "其它",
-    "priceStr": "280",
-    "projectName": "心海城（一期）08地块1栋",
-    "id": 3563551
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "99.09",
     "houseUsageSplice": "住宅",
@@ -1294,15 +1114,6 @@
     "priceStr": "185",
     "projectName": "心海城（一期）08地块1栋",
     "id": 3564824
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.66",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3557679
   },
   {
     "averagePriceTotal": "41900",
@@ -1323,15 +1134,6 @@
     "id": 3564521
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.77",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "98",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3564425
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "87.03",
     "houseUsageSplice": "住宅",
@@ -1341,15 +1143,6 @@
     "id": 3564145
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.21",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3564032
-  },
-  {
     "averagePriceTotal": "34200",
     "buildInArea": "83.26",
     "houseUsageSplice": "住宅",
@@ -1357,15 +1150,6 @@
     "priceStr": "150",
     "projectName": "奥园．翡翠东湾花园1栋",
     "id": 3548167
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3547451
   },
   {
     "averagePriceTotal": "--",
@@ -1411,15 +1195,6 @@
     "priceStr": "220",
     "projectName": "恒大成一期花园1～5栋",
     "id": 3515802
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3545732
   },
   {
     "averagePriceTotal": "42000",
@@ -1720,15 +1495,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "23.82",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "50",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3538808
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "45.35",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "一房",
@@ -1807,15 +1573,6 @@
     "priceStr": "210",
     "projectName": "心海城（一期）08地块1栋",
     "id": 3576094
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.27",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3577023
   },
   {
     "averagePriceTotal": "41900",
@@ -1954,15 +1711,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3575029
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.81",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -1978,15 +1726,6 @@
     "priceStr": "175",
     "projectName": "京基御景印象家园二期1栋",
     "id": 3574822
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3574711
   },
   {
     "averagePriceTotal": "--",
@@ -2113,15 +1852,6 @@
     "priceStr": "350",
     "projectName": "信达泰禾·金尊府4栋",
     "id": 3572479
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "48.42",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3572211
   },
   {
     "averagePriceTotal": "35900",
@@ -2268,24 +1998,6 @@
     "id": 3610214
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "47.02",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "六和商业广场一期",
-    "id": 3609902
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "49.06",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "66",
-    "projectName": "六和商业广场一期",
-    "id": 3609918
-  },
-  {
     "averagePriceTotal": "36100",
     "buildInArea": "89.82",
     "houseUsageSplice": "住宅",
@@ -2302,15 +2014,6 @@
     "priceStr": "200",
     "projectName": "蔚蓝左岸花园5栋",
     "id": 3609245
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.39",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3608950
   },
   {
     "averagePriceTotal": "38700",
@@ -2358,15 +2061,6 @@
     "id": 3607951
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "130",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3608236
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "87.32",
     "houseUsageSplice": "住宅",
@@ -2410,24 +2104,6 @@
     "priceStr": "340",
     "projectName": "保利明玥澜岸花园1、3、5栋",
     "id": 3607474
-  },
-  {
-    "averagePriceTotal": "27100",
-    "buildInArea": "81.27",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "四房",
-    "priceStr": "230",
-    "projectName": "水岸明珠3号楼（利华阁）",
-    "id": 3607548
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "45.59",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "六和商业广场一期",
-    "id": 3607538
   },
   {
     "averagePriceTotal": "34900",
@@ -2484,24 +2160,6 @@
     "id": 3607178
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.85",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3607138
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.93",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "56",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3607165
-  },
-  {
     "averagePriceTotal": "28400",
     "buildInArea": "62.59",
     "houseUsageSplice": "住宅",
@@ -2509,15 +2167,6 @@
     "priceStr": "180",
     "projectName": "中粮一品澜山花园5栋",
     "id": 3606913
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "47.02",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "99",
-    "projectName": "六和商业广场一期",
-    "id": 3606737
   },
   {
     "averagePriceTotal": "--",
@@ -2536,15 +2185,6 @@
     "priceStr": "225",
     "projectName": "富润·乐庭1栋",
     "id": 3606405
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "62.41",
-    "houseUsageSplice": "商业办公",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "新城东方丽园4栋",
-    "id": 3606174
   },
   {
     "averagePriceTotal": "--",
@@ -2593,15 +2233,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "225.61",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "三房",
-    "priceStr": "330",
-    "projectName": "益科大厦",
-    "id": 3605904
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "88.05",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -2646,15 +2277,6 @@
     "id": 3605436
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.85",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "76",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3604811
-  },
-  {
     "averagePriceTotal": "41900",
     "buildInArea": "89.11",
     "houseUsageSplice": "住宅",
@@ -2662,15 +2284,6 @@
     "priceStr": "310",
     "projectName": "财富城（一期）2栋",
     "id": 3605238
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.88",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "三房",
-    "priceStr": "96",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3604975
   },
   {
     "averagePriceTotal": "--",
@@ -2725,15 +2338,6 @@
     "priceStr": "265",
     "projectName": "京基御景印象家园三期1栋A座",
     "id": 3489552
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "36.28",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "45",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3489342
   },
   {
     "averagePriceTotal": "--",
@@ -2815,24 +2419,6 @@
     "priceStr": "290",
     "projectName": "京基御景印象家园四期1栋",
     "id": 3487226
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "34.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "47",
-    "projectName": "世茂广场2栋",
-    "id": 3484399
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.71",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "一房",
-    "priceStr": "98",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3488019
   },
   {
     "averagePriceTotal": "42000",
@@ -2950,15 +2536,6 @@
     "priceStr": "268",
     "projectName": "佳华领悦广场2栋",
     "id": 3484950
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3485980
   },
   {
     "averagePriceTotal": "42000",
@@ -3096,15 +2673,6 @@
     "id": 3484179
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "139.32",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "五房",
-    "priceStr": "335",
-    "projectName": "水岸明珠4号楼（大运阁）",
-    "id": 3483321
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "98.56",
     "houseUsageSplice": "住宅",
@@ -3130,15 +2698,6 @@
     "priceStr": "150",
     "projectName": "豪方菁园",
     "id": 3483223
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "59.76",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "95",
-    "projectName": "六和商业广场一期",
-    "id": 3481691
   },
   {
     "averagePriceTotal": "28400",
@@ -3277,15 +2836,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3504621
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.81",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -3339,15 +2889,6 @@
     "id": 3503842
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.84",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3502005
-  },
-  {
     "averagePriceTotal": "36600",
     "buildInArea": "88.6",
     "houseUsageSplice": "住宅",
@@ -3366,15 +2907,6 @@
     "id": 3503472
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.91",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "115",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3503399
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "88.75",
     "houseUsageSplice": "住宅",
@@ -3382,24 +2914,6 @@
     "priceStr": "320",
     "projectName": "招商花园13栋",
     "id": 3502488
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.38",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "98",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3502001
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3503025
   },
   {
     "averagePriceTotal": "42000",
@@ -3510,15 +3024,6 @@
     "id": 3501246
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "73.65",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "金田风华苑（东区）1号楼",
-    "id": 3501452
-  },
-  {
     "averagePriceTotal": "33100",
     "buildInArea": "80.93",
     "houseUsageSplice": "住宅",
@@ -3600,24 +3105,6 @@
     "id": 3500511
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "81.39",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "四房",
-    "priceStr": "230",
-    "projectName": "水岸明珠1号楼（利多阁）",
-    "id": 3603740
-  },
-  {
-    "averagePriceTotal": "27100",
-    "buildInArea": "37.22",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "水岸明珠1号楼（利多阁）",
-    "id": 3603762
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "94.53",
     "houseUsageSplice": "住宅",
@@ -3627,15 +3114,6 @@
     "id": 3603606
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "63.99",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3603560
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "86.04",
     "houseUsageSplice": "住宅",
@@ -3643,15 +3121,6 @@
     "priceStr": "209",
     "projectName": "深城投中城花园一期6栋",
     "id": 3603515
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.91",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "71",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3603479
   },
   {
     "averagePriceTotal": "42000",
@@ -3780,15 +3249,6 @@
     "id": 3602729
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "109.71",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "190",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3602499
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "101.51",
     "houseUsageSplice": "住宅",
@@ -3823,42 +3283,6 @@
     "priceStr": "260",
     "projectName": "京基御景印象家园四期2栋",
     "id": 3601720
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "63.92",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3601361
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.08",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "108",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3601856
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "56.18",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "世茂广场2栋",
-    "id": 3598311
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3601725
   },
   {
     "averagePriceTotal": "20000",
@@ -3913,15 +3337,6 @@
     "priceStr": "190",
     "projectName": "奥园．翡翠东湾花园3栋",
     "id": 3601315
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3600951
   },
   {
     "averagePriceTotal": "20000",
@@ -4041,15 +3456,6 @@
     "id": 3599299
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "97.06",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "三房",
-    "priceStr": "246",
-    "projectName": "水岸明珠2号楼（利金阁）",
-    "id": 3599742
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "89.95",
     "houseUsageSplice": "住宅",
@@ -4149,15 +3555,6 @@
     "id": 3553421
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "109.28",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "四房",
-    "priceStr": "198",
-    "projectName": "水岸明珠6号楼（学豪阁）",
-    "id": 3553567
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "93.83",
     "houseUsageSplice": "住宅",
@@ -4237,24 +3634,6 @@
     "priceStr": "246",
     "projectName": "花样年旭辉好时光家园（03地块）1栋",
     "id": 3547437
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "34.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "61",
-    "projectName": "世茂广场2栋",
-    "id": 3550227
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "新城东方丽园5栋",
-    "id": 3549818
   },
   {
     "averagePriceTotal": "--",
@@ -4374,15 +3753,6 @@
     "id": 3549622
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "34.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "46",
-    "projectName": "世茂广场2栋",
-    "id": 3549171
-  },
-  {
     "averagePriceTotal": "40600",
     "buildInArea": "63.69",
     "houseUsageSplice": "住宅",
@@ -4455,15 +3825,6 @@
     "id": 3548508
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.61",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3539426
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "80.19",
     "houseUsageSplice": "住宅",
@@ -4498,15 +3859,6 @@
     "priceStr": "380",
     "projectName": "恒大成二期花园3～5栋",
     "id": 3548286
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "49.06",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "六和商业广场一期",
-    "id": 3589819
   },
   {
     "averagePriceTotal": "38800",
@@ -4591,15 +3943,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "240.64",
-    "houseUsageSplice": "办公",
-    "hxTypeStr": "一房",
-    "priceStr": "298",
-    "projectName": "益科大厦",
-    "id": 3589244
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "85.84",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -4624,15 +3967,6 @@
     "priceStr": "200",
     "projectName": "奥园·翡翠东湾二期花园5栋",
     "id": 3588738
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "57.79",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "99",
-    "projectName": "世茂广场2栋",
-    "id": 3588777
   },
   {
     "averagePriceTotal": "36100",
@@ -4680,24 +4014,6 @@
     "id": 3588129
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "63",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3587646
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.8",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "一房",
-    "priceStr": "58",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3587909
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "89.37",
     "houseUsageSplice": "住宅",
@@ -4714,15 +4030,6 @@
     "priceStr": "472",
     "projectName": "嘉宏湾花园二期3号楼",
     "id": 3587667
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3587699
   },
   {
     "averagePriceTotal": "--",
@@ -4869,15 +4176,6 @@
     "id": 3585069
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "45.44",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "58",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3585534
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "85.71",
     "houseUsageSplice": "住宅",
@@ -4957,24 +4255,6 @@
     "priceStr": "295",
     "projectName": "东晟时代花园8号楼",
     "id": 3514260
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "89.79",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "165",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3514324
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.62",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3514058
   },
   {
     "averagePriceTotal": "42000",
@@ -5067,15 +4347,6 @@
     "id": 3512969
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.34",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3512169
-  },
-  {
     "averagePriceTotal": "33100",
     "buildInArea": "88.41",
     "houseUsageSplice": "住宅",
@@ -5121,15 +4392,6 @@
     "id": 3512862
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "84.47",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "二房",
-    "priceStr": "180",
-    "projectName": "水岸明珠2号楼（利金阁）",
-    "id": 3511931
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "87.33",
     "houseUsageSplice": "住宅",
@@ -5166,24 +4428,6 @@
     "id": 3511088
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "60.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "136",
-    "projectName": "六和商业广场一期",
-    "id": 3509542
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "82.8",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3510889
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "94.73",
     "houseUsageSplice": "住宅",
@@ -5200,15 +4444,6 @@
     "priceStr": "290",
     "projectName": "京基御景印象家园二期1栋",
     "id": 3509474
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3510407
   },
   {
     "averagePriceTotal": "40600",
@@ -5335,15 +4570,6 @@
     "priceStr": "420",
     "projectName": "燕澜和鸣花园1栋",
     "id": 3506939
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "24.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "48",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3506828
   },
   {
     "averagePriceTotal": "--",
@@ -5481,15 +4707,6 @@
     "id": 3562704
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "92",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3562408
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "85.99",
     "houseUsageSplice": "住宅",
@@ -5506,15 +4723,6 @@
     "priceStr": "286",
     "projectName": "心海城（一期）08地块1栋",
     "id": 3561907
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3560846
   },
   {
     "averagePriceTotal": "41900",
@@ -5536,30 +4744,12 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "36.84",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3561014
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "90.93",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
     "priceStr": "230",
     "projectName": "东关珺府1栋",
     "id": 3560612
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "34.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "46",
-    "projectName": "世茂广场2栋",
-    "id": 3560415
   },
   {
     "averagePriceTotal": "--",
@@ -5751,15 +4941,6 @@
     "id": 3556547
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "108",
-    "projectName": "新城东方丽园5栋",
-    "id": 3555959
-  },
-  {
     "averagePriceTotal": "33100",
     "buildInArea": "99.83",
     "houseUsageSplice": "住宅",
@@ -5803,15 +4984,6 @@
     "priceStr": "450",
     "projectName": "天峦湖花园2栋",
     "id": 3555985
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "31.93",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3555843
   },
   {
     "averagePriceTotal": "--",
@@ -5967,15 +5139,6 @@
     "id": 3594699
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "43",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3594202
-  },
-  {
     "averagePriceTotal": "36600",
     "buildInArea": "139.67",
     "houseUsageSplice": "住宅",
@@ -6055,15 +5218,6 @@
     "priceStr": "152",
     "projectName": "臻文府",
     "id": 3590191
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "67",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3593291
   },
   {
     "averagePriceTotal": "42000",
@@ -6156,24 +5310,6 @@
     "id": 3590632
   },
   {
-    "averagePriceTotal": "38000",
-    "buildInArea": "207.06",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "五房",
-    "priceStr": "1480",
-    "projectName": "嘉宏湾花园4、7、10、11号楼",
-    "id": 3591330
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.66",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "68",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3591729
-  },
-  {
     "averagePriceTotal": "28400",
     "buildInArea": "86.58",
     "houseUsageSplice": "住宅",
@@ -6199,24 +5335,6 @@
     "priceStr": "495",
     "projectName": "招商花园1栋",
     "id": 3590758
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "46.7",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "92",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3589434
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "63.91",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3589436
   },
   {
     "averagePriceTotal": "34900",
@@ -6253,15 +5371,6 @@
     "priceStr": "175",
     "projectName": "奥园·翡翠东湾二期花园3栋",
     "id": 3590277
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3590793
   },
   {
     "averagePriceTotal": "37500",
@@ -6435,15 +5544,6 @@
     "id": 3497670
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.14",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3496408
-  },
-  {
     "averagePriceTotal": "36600",
     "buildInArea": "88.18",
     "houseUsageSplice": "住宅",
@@ -6469,24 +5569,6 @@
     "priceStr": "265",
     "projectName": "深城投中城花园一期6栋",
     "id": 3495876
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "24.05",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "49",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3495444
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3494853
   },
   {
     "averagePriceTotal": "38600",
@@ -6733,15 +5815,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "45.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "78",
-    "projectName": "新城东方丽园5栋",
-    "id": 3490677
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "71.17",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -6922,33 +5995,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "29.52",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3526872
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.91",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3527288
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "34.95",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "47",
-    "projectName": "世茂广场2栋",
-    "id": 3527207
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.83",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -6964,15 +6010,6 @@
     "priceStr": "276",
     "projectName": "深城投·中心公馆5栋",
     "id": 3526859
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "15.25",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "丹梓龙庭B栋",
-    "id": 3526351
   },
   {
     "averagePriceTotal": "20000",
@@ -7128,15 +6165,6 @@
     "id": 3524914
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "91.13",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "162",
-    "projectName": "六和商业广场一期",
-    "id": 3524744
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "125.62",
     "houseUsageSplice": "住宅",
@@ -7153,15 +6181,6 @@
     "priceStr": "460",
     "projectName": "天峦湖花园8栋",
     "id": 3524442
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.67",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3516957
   },
   {
     "averagePriceTotal": "--",
@@ -7243,15 +6262,6 @@
     "priceStr": "400",
     "projectName": "豪方东园2栋",
     "id": 3523040
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.84",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3523010
   },
   {
     "averagePriceTotal": "39700",
@@ -7342,15 +6352,6 @@
     "priceStr": "378",
     "projectName": "万科金域缇香花园二期3栋",
     "id": 3520180
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.19",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3520167
   },
   {
     "averagePriceTotal": "34900",
@@ -7561,33 +6562,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "67.88",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3513776
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.91",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "94.88",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3513779
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "68.88",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3513781
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.65",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -7603,15 +6577,6 @@
     "priceStr": "518",
     "projectName": "财富城（一期）1栋",
     "id": 3514607
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3514557
   },
   {
     "averagePriceTotal": "37500",
@@ -7659,15 +6624,6 @@
     "id": 3614454
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "155",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3614431
-  },
-  {
     "averagePriceTotal": "36100",
     "buildInArea": "76.28",
     "houseUsageSplice": "住宅",
@@ -7675,15 +6631,6 @@
     "priceStr": "190",
     "projectName": "东晟时代花园7号楼",
     "id": 3605532
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "124.76",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "405",
-    "projectName": "招商花园11栋裙楼",
-    "id": 3614200
   },
   {
     "averagePriceTotal": "28600",
@@ -7722,15 +6669,6 @@
     "id": 3614172
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.66",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "55",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3614005
-  },
-  {
     "averagePriceTotal": "28600",
     "buildInArea": "87.53",
     "houseUsageSplice": "住宅",
@@ -7767,15 +6705,6 @@
     "id": 3602238
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3613408
-  },
-  {
     "averagePriceTotal": "34200",
     "buildInArea": "77.11",
     "houseUsageSplice": "住宅",
@@ -7792,15 +6721,6 @@
     "priceStr": "200",
     "projectName": "金地朗悦花园3栋",
     "id": 3612111
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.87",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3613127
   },
   {
     "averagePriceTotal": "--",
@@ -7828,15 +6748,6 @@
     "priceStr": "530",
     "projectName": "深城投·中心公馆6栋",
     "id": 3612675
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.13",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "120",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3612682
   },
   {
     "averagePriceTotal": "42000",
@@ -7875,15 +6786,6 @@
     "id": 3612377
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "40.29",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "其它",
-    "priceStr": "78",
-    "projectName": "水岸明珠3号楼（利华阁）",
-    "id": 3612338
-  },
-  {
     "averagePriceTotal": "36600",
     "buildInArea": "83.28",
     "houseUsageSplice": "住宅",
@@ -7891,15 +6793,6 @@
     "priceStr": "225",
     "projectName": "六和商业广场一期",
     "id": 3612311
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.84",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3612178
   },
   {
     "averagePriceTotal": "--",
@@ -7965,24 +6858,6 @@
     "id": 3609802
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "34.57",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "38",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3611344
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "34.57",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "38",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3611346
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "84.47",
     "houseUsageSplice": "住宅",
@@ -7999,15 +6874,6 @@
     "priceStr": "250",
     "projectName": "花样年旭辉好时光家园（04地块）1栋",
     "id": 3611263
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "47.02",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "51",
-    "projectName": "六和商业广场一期",
-    "id": 3611265
   },
   {
     "averagePriceTotal": "42000",
@@ -8044,15 +6910,6 @@
     "priceStr": "900",
     "projectName": "嘉宏湾花园二期8号楼",
     "id": 3609669
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.66",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3610481
   },
   {
     "averagePriceTotal": "--",
@@ -8208,33 +7065,6 @@
     "id": 3536346
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "56.18",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "世茂广场2栋",
-    "id": 3532064
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "128",
-    "projectName": "新城东方丽园5栋",
-    "id": 3535979
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.92",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3535926
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "85.24",
     "houseUsageSplice": "住宅",
@@ -8269,15 +7099,6 @@
     "priceStr": "345",
     "projectName": "深城投·中心公馆3栋",
     "id": 3529827
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3534779
   },
   {
     "averagePriceTotal": "--",
@@ -8325,15 +7146,6 @@
     "id": 3532770
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.71",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "二房",
-    "priceStr": "115",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3533745
-  },
-  {
     "averagePriceTotal": "28600",
     "buildInArea": "135.88",
     "houseUsageSplice": "住宅",
@@ -8350,24 +7162,6 @@
     "priceStr": "300",
     "projectName": "六和商业广场一期",
     "id": 3533429
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.71",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3533314
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3533313
   },
   {
     "averagePriceTotal": "--",
@@ -8433,15 +7227,6 @@
     "id": 3531311
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "34.57",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "40",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3531263
-  },
-  {
     "averagePriceTotal": "38000",
     "buildInArea": "88.38",
     "houseUsageSplice": "住宅",
@@ -8458,15 +7243,6 @@
     "priceStr": "249",
     "projectName": "六和商业广场一期",
     "id": 3531009
-  },
-  {
-    "averagePriceTotal": "23800",
-    "buildInArea": "35.53",
-    "houseUsageSplice": "商业金融业",
-    "hxTypeStr": "一房",
-    "priceStr": "73",
-    "projectName": "盈富家园AB区",
-    "id": 3527745
   },
   {
     "averagePriceTotal": "--",
@@ -8497,15 +7273,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "44.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "146",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3530402
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "95.79",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -8521,24 +7288,6 @@
     "priceStr": "700",
     "projectName": "天峦湖花园5栋",
     "id": 3530147
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3529925
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3529922
   },
   {
     "averagePriceTotal": "--",
@@ -8611,24 +7360,6 @@
     "priceStr": "263",
     "projectName": "信达泰禾·金尊府3栋",
     "id": 3482570
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "23.94",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3482576
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "46.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "98",
-    "projectName": "六和商业广场一期",
-    "id": 3482489
   },
   {
     "averagePriceTotal": "--",
@@ -8775,15 +7506,6 @@
     "id": 3479173
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3475546
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "86.85",
     "houseUsageSplice": "住宅",
@@ -8827,15 +7549,6 @@
     "priceStr": "270",
     "projectName": "恒大成一期花园6～7栋",
     "id": 3479505
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "55.29",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "99",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3470458
   },
   {
     "averagePriceTotal": "38700",
@@ -8926,24 +7639,6 @@
     "priceStr": "330",
     "projectName": "豪方东园1栋",
     "id": 3477698
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3473818
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "50.62",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "130",
-    "projectName": "六和商业广场一期",
-    "id": 3477471
   },
   {
     "averagePriceTotal": "37500",
@@ -9055,15 +7750,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "50.94",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "94",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3440939
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "94.18",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -9124,15 +7810,6 @@
     "priceStr": "280",
     "projectName": "碧湖春天北花园",
     "id": 3438756
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "220",
-    "projectName": "新城东方丽园5栋",
-    "id": 3436381
   },
   {
     "averagePriceTotal": "--",
@@ -9225,15 +7902,6 @@
     "id": 3437819
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "新城东方丽园5栋",
-    "id": 3438170
-  },
-  {
     "averagePriceTotal": "38700",
     "buildInArea": "89.19",
     "houseUsageSplice": "住宅",
@@ -9313,15 +7981,6 @@
     "priceStr": "196",
     "projectName": "力高君御花园1号～6号、11号楼",
     "id": 3437404
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "62",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3437120
   },
   {
     "averagePriceTotal": "35900",
@@ -9622,15 +8281,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "50.87",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3336433
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "120.41",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -9691,15 +8341,6 @@
     "priceStr": "145",
     "projectName": "京基御景印象家园二期1栋",
     "id": 3335026
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "52.56",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3332732
   },
   {
     "averagePriceTotal": "--",
@@ -10098,15 +8739,6 @@
     "id": 3370045
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "128.61",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "四房",
-    "priceStr": "300",
-    "projectName": "水岸明珠6号楼（学豪阁）",
-    "id": 3370130
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "84.14",
     "houseUsageSplice": "住宅",
@@ -10261,15 +8893,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "31.37",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "88",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3366936
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "86.03",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -10377,15 +9000,6 @@
     "id": 3415034
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "88.35",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "170",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3414652
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "78.85",
     "houseUsageSplice": "住宅",
@@ -10438,24 +9052,6 @@
     "priceStr": "170",
     "projectName": "奥园．翡翠东湾花园1栋",
     "id": 3411896
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "59.76",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "六和商业广场一期",
-    "id": 3408358
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "82.89",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "新城东方丽园5栋",
-    "id": 3413224
   },
   {
     "averagePriceTotal": "42000",
@@ -10558,24 +9154,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "31.93",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3411485
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "34.57",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "46",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3391319
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "93.35",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -10600,15 +9178,6 @@
     "priceStr": "200",
     "projectName": "中粮一品澜山花园10栋",
     "id": 3403949
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.85",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3411205
   },
   {
     "averagePriceTotal": "34200",
@@ -10818,15 +9387,6 @@
     "id": 3422910
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.87",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "86",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3423690
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "130.03",
     "houseUsageSplice": "住宅",
@@ -10852,15 +9412,6 @@
     "priceStr": "185",
     "projectName": "心海城（一期）07地块2栋",
     "id": 3423502
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.41",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "118",
-    "projectName": "新城东方丽园3栋",
-    "id": 3423242
   },
   {
     "averagePriceTotal": "33100",
@@ -11043,15 +9594,6 @@
     "id": 3409041
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "36.11",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "87",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3419702
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "113.41",
     "houseUsageSplice": "住宅",
@@ -11140,15 +9682,6 @@
     "priceStr": "332",
     "projectName": "凤凰公馆2栋",
     "id": 3418155
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "60.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "190",
-    "projectName": "六和商业广场一期",
-    "id": 3417878
   },
   {
     "averagePriceTotal": "41900",
@@ -11259,15 +9792,6 @@
     "id": 3459581
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "63.91",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "88",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3459583
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "88.17",
     "houseUsageSplice": "住宅",
@@ -11275,15 +9799,6 @@
     "priceStr": "318.8",
     "projectName": "万科金域缇香花园二期1栋",
     "id": 3428529
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "72",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3458959
   },
   {
     "averagePriceTotal": "35900",
@@ -11322,15 +9837,6 @@
     "id": 3459547
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.57",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3459188
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "89.31",
     "houseUsageSplice": "住宅",
@@ -11338,15 +9844,6 @@
     "priceStr": "420",
     "projectName": "万科金域缇香花园二期8栋",
     "id": 3458683
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "24.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "49.8",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3458617
   },
   {
     "averagePriceTotal": "37500",
@@ -11394,15 +9891,6 @@
     "id": 3456600
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "49.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "六和商业广场一期",
-    "id": 3456823
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "130.03",
     "houseUsageSplice": "住宅",
@@ -11428,15 +9916,6 @@
     "priceStr": "230",
     "projectName": "深业东城上邸2栋",
     "id": 3456194
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.52",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "139",
-    "projectName": "新城东方丽园3栋",
-    "id": 3457700
   },
   {
     "averagePriceTotal": "34200",
@@ -11518,15 +9997,6 @@
     "priceStr": "310",
     "projectName": "富润·乐庭3栋",
     "id": 3456642
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "60",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3456015
   },
   {
     "averagePriceTotal": "--",
@@ -11872,15 +10342,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3342055
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "62.14",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -11986,15 +10447,6 @@
     "priceStr": "365",
     "projectName": "佳华领悦广场2栋",
     "id": 3340493
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "81.39",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "三房",
-    "priceStr": "120",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3334891
   },
   {
     "averagePriceTotal": "20000",
@@ -12150,15 +10602,6 @@
     "id": 3338837
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.29",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "108",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3406656
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "158.63",
     "houseUsageSplice": "住宅",
@@ -12193,15 +10636,6 @@
     "priceStr": "590",
     "projectName": "财富城（一期）2栋",
     "id": 3406112
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "60.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "99",
-    "projectName": "六和商业广场一期",
-    "id": 3406400
   },
   {
     "averagePriceTotal": "--",
@@ -12385,24 +10819,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3402893
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "55.52",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3403701
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "126.4",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -12519,15 +10935,6 @@
     "id": 3400571
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "43.36",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "55",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3391316
-  },
-  {
     "averagePriceTotal": "37100",
     "buildInArea": "38.63",
     "houseUsageSplice": "住宅",
@@ -12553,15 +10960,6 @@
     "priceStr": "485",
     "projectName": "万樾府5栋",
     "id": 3400017
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "24.05",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "52",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3400759
   },
   {
     "averagePriceTotal": "33000",
@@ -12618,15 +11016,6 @@
     "id": 3385681
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.91",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "110",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3385202
-  },
-  {
     "averagePriceTotal": "34200",
     "buildInArea": "78.98",
     "houseUsageSplice": "住宅",
@@ -12663,24 +11052,6 @@
     "id": 3384715
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.44",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3384328
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3383520
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "86.02",
     "houseUsageSplice": "住宅",
@@ -12706,15 +11077,6 @@
     "priceStr": "265",
     "projectName": "恒大成二期花园6～7栋",
     "id": 3383436
-  },
-  {
-    "averagePriceTotal": "36100",
-    "buildInArea": "60.61",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "东晟时代花园1号楼",
-    "id": 3382554
   },
   {
     "averagePriceTotal": "42000",
@@ -13023,15 +11385,6 @@
     "id": 3377827
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "70",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3377914
-  },
-  {
     "averagePriceTotal": "37400",
     "buildInArea": "75.98",
     "houseUsageSplice": "住宅",
@@ -13057,15 +11410,6 @@
     "priceStr": "200",
     "projectName": "金地朗悦花园1栋",
     "id": 3398739
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "62.41",
-    "houseUsageSplice": "商业办公",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "新城东方丽园4栋",
-    "id": 3399304
   },
   {
     "averagePriceTotal": "41900",
@@ -13104,15 +11448,6 @@
     "id": 3398454
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "38.08",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "40",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3398689
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "130.03",
     "houseUsageSplice": "住宅",
@@ -13149,15 +11484,6 @@
     "id": 3398088
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "65",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3398062
-  },
-  {
     "averagePriceTotal": "41900",
     "buildInArea": "71.89",
     "houseUsageSplice": "住宅",
@@ -13183,15 +11509,6 @@
     "priceStr": "260",
     "projectName": "悦都会华庭",
     "id": 3397199
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.85",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3397317
   },
   {
     "averagePriceTotal": "--",
@@ -13627,15 +11944,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "41.69",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "其它",
-    "priceStr": "100",
-    "projectName": "润樾山花园7栋",
-    "id": 3430383
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "86.44",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -13651,15 +11959,6 @@
     "priceStr": "300",
     "projectName": "招商花园11栋A座",
     "id": 3427936
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "82",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3429711
   },
   {
     "averagePriceTotal": "37400",
@@ -13696,15 +11995,6 @@
     "priceStr": "400",
     "projectName": "深城投·中心公馆8栋",
     "id": 3428834
-  },
-  {
-    "averagePriceTotal": "42000",
-    "buildInArea": "37.51",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "150",
-    "projectName": "招商花园1栋",
-    "id": 3428430
   },
   {
     "averagePriceTotal": "--",
@@ -13797,15 +12087,6 @@
     "id": 3426693
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.52",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "新城东方丽园3栋",
-    "id": 3425476
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "87.85",
     "houseUsageSplice": "住宅",
@@ -13822,15 +12103,6 @@
     "priceStr": "260",
     "projectName": "君胜熙玥湾花园1栋",
     "id": 3426364
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.24",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "一房",
-    "priceStr": "52",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3426328
   },
   {
     "averagePriceTotal": "37500",
@@ -13921,15 +12193,6 @@
     "priceStr": "240",
     "projectName": "凤凰公馆2栋",
     "id": 3421442
-  },
-  {
-    "averagePriceTotal": "33100",
-    "buildInArea": "71.08",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "180",
-    "projectName": "心海城（一期）08地块1栋",
-    "id": 3424235
   },
   {
     "averagePriceTotal": "--",
@@ -14076,15 +12339,6 @@
     "id": 3450951
   },
   {
-    "averagePriceTotal": "34200",
-    "buildInArea": "25.24",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "其它",
-    "priceStr": "70",
-    "projectName": "奥园．翡翠东湾花园2栋",
-    "id": 3450876
-  },
-  {
     "averagePriceTotal": "28400",
     "buildInArea": "84.82",
     "houseUsageSplice": "住宅",
@@ -14092,15 +12346,6 @@
     "priceStr": "260",
     "projectName": "中粮一品澜山花园6栋",
     "id": 3450580
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "24.04",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "55",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3432494
   },
   {
     "averagePriceTotal": "42000",
@@ -14220,15 +12465,6 @@
     "id": 3447982
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "38.63",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "105",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3446655
-  },
-  {
     "averagePriceTotal": "37500",
     "buildInArea": "128",
     "houseUsageSplice": "住宅",
@@ -14263,15 +12499,6 @@
     "priceStr": "300",
     "projectName": "招商花园5栋",
     "id": 3446693
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.75",
-    "houseUsageSplice": "会议",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3446813
   },
   {
     "averagePriceTotal": "36600",
@@ -14311,15 +12538,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "92.76",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "三房",
-    "priceStr": "180",
-    "projectName": "凤凰公馆3栋",
-    "id": 3443238
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "98.66",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14335,15 +12553,6 @@
     "priceStr": "290",
     "projectName": "佳华领悦广场2栋",
     "id": 3444192
-  },
-  {
-    "averagePriceTotal": "27100",
-    "buildInArea": "109.86",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "三房",
-    "priceStr": "230",
-    "projectName": "水岸明珠4号楼（大运阁）",
-    "id": 3444726
   },
   {
     "averagePriceTotal": "33800",
@@ -14389,15 +12598,6 @@
     "priceStr": "260",
     "projectName": "京基御景印象家园四期1栋",
     "id": 3443770
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.7",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "70",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3443752
   },
   {
     "averagePriceTotal": "42000",
@@ -14488,15 +12688,6 @@
     "priceStr": "450",
     "projectName": "深城投·中心公馆8栋",
     "id": 3375407
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.08",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3374624
   },
   {
     "averagePriceTotal": "34200",
@@ -14698,15 +12889,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "67.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "新城东方丽园5栋",
-    "id": 3374434
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "130.24",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -14896,15 +13078,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "32.84",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "68",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3357096
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "101.74",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -14920,15 +13093,6 @@
     "priceStr": "210",
     "projectName": "凤凰公馆1栋",
     "id": 3336483
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "36.28",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "45",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3357078
   },
   {
     "averagePriceTotal": "36100",
@@ -14977,24 +13141,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.43",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "80",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3356899
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.08",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "95",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3356690
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "87.97",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -15019,15 +13165,6 @@
     "priceStr": "280",
     "projectName": "凤凰公馆2栋",
     "id": 3340876
-  },
-  {
-    "averagePriceTotal": "33000",
-    "buildInArea": "30.45",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "59",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3353951
   },
   {
     "averagePriceTotal": "--",
@@ -15336,24 +13473,6 @@
     "id": 3468182
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "45.59",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "92",
-    "projectName": "六和商业广场一期",
-    "id": 3468234
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "43.24",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "92",
-    "projectName": "六和商业广场一期",
-    "id": 3468231
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "124.53",
     "houseUsageSplice": "住宅",
@@ -15370,15 +13489,6 @@
     "priceStr": "240",
     "projectName": "东关珺府1栋",
     "id": 3467875
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.14",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "168",
-    "projectName": "新城东方丽园5栋",
-    "id": 3467517
   },
   {
     "averagePriceTotal": "--",
@@ -15489,15 +13599,6 @@
     "id": 3465645
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.12",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3465356
-  },
-  {
     "averagePriceTotal": "33000",
     "buildInArea": "137.04",
     "houseUsageSplice": "住宅",
@@ -15534,15 +13635,6 @@
     "id": 3463943
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "49.42",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "六和商业广场一期",
-    "id": 3463849
-  },
-  {
     "averagePriceTotal": "38600",
     "buildInArea": "44.93",
     "houseUsageSplice": "住宅",
@@ -15550,15 +13642,6 @@
     "priceStr": "160",
     "projectName": "京基御景印象家园二期1栋",
     "id": 3463388
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.57",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3463708
   },
   {
     "averagePriceTotal": "--",
@@ -15625,15 +13708,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "48.76",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "110",
-    "projectName": "蓝钻风景花园1栋",
-    "id": 3462392
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "66.21",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "二房",
@@ -15667,15 +13741,6 @@
     "priceStr": "243",
     "projectName": "心海城（一期）07地块2栋",
     "id": 3459983
-  },
-  {
-    "averagePriceTotal": "27100",
-    "buildInArea": "109.45",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "三房",
-    "priceStr": "220",
-    "projectName": "水岸明珠6号楼（学豪阁）",
-    "id": 3386598
   },
   {
     "averagePriceTotal": "35900",
@@ -15750,15 +13815,6 @@
     "id": 3460316
   },
   {
-    "averagePriceTotal": "36600",
-    "buildInArea": "91.69",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "210",
-    "projectName": "六和商业广场一期",
-    "id": 3351489
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "74.52",
     "houseUsageSplice": "住宅",
@@ -15804,15 +13860,6 @@
     "id": 3350940
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.21",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3349266
-  },
-  {
     "averagePriceTotal": "40600",
     "buildInArea": "68.21",
     "houseUsageSplice": "住宅",
@@ -15838,15 +13885,6 @@
     "priceStr": "430",
     "projectName": "恒大成一期花园6～7栋",
     "id": 3349882
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3350007
   },
   {
     "averagePriceTotal": "42000",
@@ -15892,15 +13930,6 @@
     "priceStr": "230",
     "projectName": "凤凰公馆1栋",
     "id": 3349076
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.03",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "82",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3348508
   },
   {
     "averagePriceTotal": "--",
@@ -15964,15 +13993,6 @@
     "priceStr": "287",
     "projectName": "京基御景印象家园二期1栋",
     "id": 3346919
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "51.89",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "90",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3347411
   },
   {
     "averagePriceTotal": "36100",
@@ -16173,15 +14193,6 @@
     "id": 3344670
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.83",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "78",
-    "projectName": "龙光玖云著大楼3号楼",
-    "id": 3344591
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "77.54",
     "houseUsageSplice": "住宅",
@@ -16189,15 +14200,6 @@
     "priceStr": "290",
     "projectName": "嘉宏湾花园二期2号楼",
     "id": 3344424
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "34.4",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3344340
   },
   {
     "averagePriceTotal": "33100",
@@ -16461,15 +14463,6 @@
     "id": 3361335
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "45.38",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "88",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3361233
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "66.94",
     "houseUsageSplice": "住宅",
@@ -16641,15 +14634,6 @@
     "id": 3356913
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.41",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "105",
-    "projectName": "新城东方丽园3栋",
-    "id": 3358124
-  },
-  {
     "averagePriceTotal": "36100",
     "buildInArea": "87.9",
     "houseUsageSplice": "住宅",
@@ -16659,15 +14643,6 @@
     "id": 3390085
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "38",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "75",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3392845
-  },
-  {
     "averagePriceTotal": "40600",
     "buildInArea": "89.39",
     "houseUsageSplice": "住宅",
@@ -16675,15 +14650,6 @@
     "priceStr": "260",
     "projectName": "万科金域东郡1栋",
     "id": 3391097
-  },
-  {
-    "averagePriceTotal": "27100",
-    "buildInArea": "110.42",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "三房",
-    "priceStr": "200",
-    "projectName": "水岸明珠6号楼（学豪阁）",
-    "id": 3392011
   },
   {
     "averagePriceTotal": "--",
@@ -17029,15 +14995,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.42",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "81",
-    "projectName": "龙光玖云著大楼2号楼",
-    "id": 3384641
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "136.38",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "四房",
@@ -17100,15 +15057,6 @@
     "id": 3384811
   },
   {
-    "averagePriceTotal": "27100",
-    "buildInArea": "108.21",
-    "houseUsageSplice": "商住",
-    "hxTypeStr": "三房",
-    "priceStr": "240",
-    "projectName": "水岸明珠5号楼（学院阁）",
-    "id": 3474660
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "88.99",
     "houseUsageSplice": "住宅",
@@ -17143,24 +15091,6 @@
     "priceStr": "450",
     "projectName": "天峦湖花园4栋",
     "id": 3475273
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "50.24",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "三房",
-    "priceStr": "110",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3475167
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "69.52",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "140",
-    "projectName": "新城东方丽园3栋",
-    "id": 3474528
   },
   {
     "averagePriceTotal": "33100",
@@ -17272,15 +15202,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "82",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3473309
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "91.29",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -17335,15 +15256,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "32.15",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3472161
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "80.94",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -17368,15 +15280,6 @@
     "priceStr": "195",
     "projectName": "东晟时代花园6号楼",
     "id": 3465646
-  },
-  {
-    "averagePriceTotal": "36100",
-    "buildInArea": "76.95",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "130",
-    "projectName": "东晟时代花园8号楼",
-    "id": 3471201
   },
   {
     "averagePriceTotal": "36600",
@@ -17658,15 +15561,6 @@
     "id": 3310381
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.59",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3309763
-  },
-  {
     "averagePriceTotal": "33100",
     "buildInArea": "80.93",
     "houseUsageSplice": "住宅",
@@ -17746,15 +15640,6 @@
     "priceStr": "478",
     "projectName": "招商花园1栋",
     "id": 3309680
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "45.32",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "119",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3307251
   },
   {
     "averagePriceTotal": "38600",
@@ -17910,15 +15795,6 @@
     "id": 3307623
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "63.91",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "88",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3307308
-  },
-  {
     "averagePriceTotal": "33800",
     "buildInArea": "88.86",
     "houseUsageSplice": "住宅",
@@ -17953,15 +15829,6 @@
     "priceStr": "210",
     "projectName": "心海城（一期）08地块1栋",
     "id": 3306648
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "56.63",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "90",
-    "projectName": "金田风华苑（东区）1号楼",
-    "id": 3306887
   },
   {
     "averagePriceTotal": "--",
@@ -18043,15 +15910,6 @@
     "priceStr": "410",
     "projectName": "东关珺府3栋",
     "id": 3330334
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "32.94",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "62",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3330555
   },
   {
     "averagePriceTotal": "--",
@@ -18169,15 +16027,6 @@
     "priceStr": "368.8",
     "projectName": "奥园．翡翠东湾花园6栋",
     "id": 3329233
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "60.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "118",
-    "projectName": "六和商业广场一期",
-    "id": 3329081
   },
   {
     "averagePriceTotal": "--",
@@ -18423,15 +16272,6 @@
     "id": 3324720
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.68",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3325344
-  },
-  {
     "averagePriceTotal": "33100",
     "buildInArea": "94.04",
     "houseUsageSplice": "住宅",
@@ -18583,15 +16423,6 @@
     "priceStr": "380",
     "projectName": "财富城（一期）2栋",
     "id": 3298663
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "92.76",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "180",
-    "projectName": "凤凰公馆3栋",
-    "id": 3293157
   },
   {
     "averagePriceTotal": "42000",
@@ -18891,15 +16722,6 @@
     "id": 3291212
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "67.02",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "110",
-    "projectName": "新城东方丽园5栋",
-    "id": 3295908
-  },
-  {
     "averagePriceTotal": "42000",
     "buildInArea": "86.62",
     "houseUsageSplice": "住宅",
@@ -19179,15 +17001,6 @@
     "id": 3292411
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "46.64",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3293461
-  },
-  {
     "averagePriceTotal": "36600",
     "buildInArea": "247.94",
     "houseUsageSplice": "住宅",
@@ -19330,15 +17143,6 @@
     "priceStr": "355",
     "projectName": "深城投中城花园一期1栋",
     "id": 3292267
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "131.39",
-    "houseUsageSplice": "商业办公",
-    "hxTypeStr": "一房",
-    "priceStr": "198",
-    "projectName": "新城东方丽园4栋",
-    "id": 3292055
   },
   {
     "averagePriceTotal": "--",
@@ -19665,24 +17469,6 @@
     "id": 3324141
   },
   {
-    "averagePriceTotal": "20000",
-    "buildInArea": "36.28",
-    "houseUsageSplice": "单身宿舍",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "启兴配套生活区C栋单身宿舍",
-    "id": 3324759
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.39",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "88",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3324727
-  },
-  {
     "averagePriceTotal": "34200",
     "buildInArea": "88.48",
     "houseUsageSplice": "住宅",
@@ -19881,15 +17667,6 @@
     "id": 3322662
   },
   {
-    "averagePriceTotal": "33000",
-    "buildInArea": "43.48",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "龙光玖云著大楼4号楼",
-    "id": 3321873
-  },
-  {
     "averagePriceTotal": "--",
     "buildInArea": "80.92",
     "houseUsageSplice": "住宅",
@@ -19953,15 +17730,6 @@
     "id": 3321204
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "35.91",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "50",
-    "projectName": "世茂广场2栋",
-    "id": 3319849
-  },
-  {
     "averagePriceTotal": "41900",
     "buildInArea": "89.47",
     "houseUsageSplice": "住宅",
@@ -19969,15 +17737,6 @@
     "priceStr": "328",
     "projectName": "财富城（一期）2栋",
     "id": 3321206
-  },
-  {
-    "averagePriceTotal": "36600",
-    "buildInArea": "60.03",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "六和商业广场一期",
-    "id": 3319201
   },
   {
     "averagePriceTotal": "36100",
@@ -20196,24 +17955,6 @@
     "id": 3317950
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.26",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "148",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3316382
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "55.96",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "100",
-    "projectName": "世茂广场2栋",
-    "id": 3316603
-  },
-  {
     "averagePriceTotal": "41900",
     "buildInArea": "89.47",
     "houseUsageSplice": "住宅",
@@ -20239,15 +17980,6 @@
     "priceStr": "435",
     "projectName": "万科金域缇香花园二期7栋",
     "id": 3315928
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "156.85",
-    "houseUsageSplice": "商业办公",
-    "hxTypeStr": "三房",
-    "priceStr": "300",
-    "projectName": "新城东方丽园4栋",
-    "id": 3304630
   },
   {
     "averagePriceTotal": "33100",
@@ -20284,15 +18016,6 @@
     "priceStr": "430",
     "projectName": "天峦湖花园4栋",
     "id": 3315077
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.61",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "80",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3314852
   },
   {
     "averagePriceTotal": "--",
@@ -20350,33 +18073,6 @@
   },
   {
     "averagePriceTotal": "--",
-    "buildInArea": "31.36",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "65",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3301322
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "75",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3313268
-  },
-  {
-    "averagePriceTotal": "20000",
-    "buildInArea": "115.71",
-    "houseUsageSplice": "公寓",
-    "hxTypeStr": "四房",
-    "priceStr": "208",
-    "projectName": "乐安居大酒店（公寓部分）",
-    "id": 3313692
-  },
-  {
-    "averagePriceTotal": "--",
     "buildInArea": "66.83",
     "houseUsageSplice": "住宅",
     "hxTypeStr": "三房",
@@ -20401,15 +18097,6 @@
     "priceStr": "218",
     "projectName": "金地朗悦花园7栋",
     "id": 3312576
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "37.58",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "一房",
-    "priceStr": "100",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3311890
   },
   {
     "averagePriceTotal": "--",
@@ -20529,15 +18216,6 @@
     "id": 3304872
   },
   {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.57",
-    "houseUsageSplice": "商业",
-    "hxTypeStr": "一房",
-    "priceStr": "85",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3304336
-  },
-  {
     "averagePriceTotal": "39700",
     "buildInArea": "77.82",
     "houseUsageSplice": "住宅",
@@ -20599,15 +18277,6 @@
     "priceStr": "350",
     "projectName": "玺悦台2栋",
     "id": 3304596
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "44.28",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "150",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3304640
   },
   {
     "averagePriceTotal": "40600",
@@ -20725,15 +18394,6 @@
     "priceStr": "145",
     "projectName": "盈富家园C区",
     "id": 3303215
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "36.67",
-    "houseUsageSplice": "商业性办公",
-    "hxTypeStr": "二房",
-    "priceStr": "79",
-    "projectName": "龙光玖云著大楼1号楼",
-    "id": 3303048
   },
   {
     "averagePriceTotal": "34900",
@@ -20905,15 +18565,6 @@
     "priceStr": "498",
     "projectName": "嘉宏湾花园二期2号楼",
     "id": 3301007
-  },
-  {
-    "averagePriceTotal": "--",
-    "buildInArea": "45.08",
-    "houseUsageSplice": "商务公寓",
-    "hxTypeStr": "二房",
-    "priceStr": "120",
-    "projectName": "深城投·中心公馆1栋",
-    "id": 3300497
   },
   {
     "averagePriceTotal": "42000",
