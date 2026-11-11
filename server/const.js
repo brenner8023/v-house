@@ -134,6 +134,9 @@ export const DATE_LIST = [
   ['2026-04', 'https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963715.html'],
   ['2026-05', 'https://www.stats.gov.cn/sj/zxfbhjd/202606/t20260616_1963946.html'],
   ['2026-06', 'https://www.stats.gov.cn/sj/zxfbhjd/202607/t20260715_1964115.html'],
+  ['2026-07', 'https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965050.html'],
+  ['2026-08', 'https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965304.html'],
+  ['2026-09', 'https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html'],
 ]
 
 export const SZ_DISTRICT_MAP = {
